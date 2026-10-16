@@ -3,7 +3,7 @@
 Updated 2026-10-16, Asia/Kolkata. Read CURRENT_STATE.md and PROGRESS.md with this file. Archived handoffs are history, not current instructions.
 
 ## Authorization and exact next action
-User approved publishing the project to their GitHub account as **Lakhimpur Control Center - Public**, with teammate credits **Paritosh and Atulya**. Target: paritosh-py/Lakhimpur-Control-Center. Preparing initial commit/publication; do not claim push completed until remote verification. No new functional phase approved.
+User approved publishing the project to their GitHub account as **Lakhimpur Control Center - Public**, with teammate credits **Paritosh and Atulya**. Target: paritosh-py/Lakhimpur-Control-Center. Published successfully. Public repository, main branch, initial source commit665c869 and both teammate credits verified through GitHub API. No new functional phase approved.
 
 Previous increment: Citizen settlement parity fix is built as **1.0.2+3**, including direct-online UI correction. Physical-phone acceptance remains pending. Next functional verification is installing this APK, checking the 16 settlements, sending a report, checking dashboard receipt, and closing from phone/dashboard. Do not silently launch another functional phase.
 
@@ -30,7 +30,7 @@ Citizen APK: apps/citizen_flutter/AeroLink-main/apps/mobile/build/app/outputs/fl
 - Citizen reports persist and receive Gemini/rule triage, but are NOT connected to live settlement assessments.
 - Route prototype exists. Missing predictions default to LOW/zero probability and can imply 100% reliability; closure registry is not connected. Do not call it operationally safe or complete.
 - Citizen selected settlement ID is now submitted; canonical 16 names match. Build success does not prove latest APK installed on phone.
-- GitHub publication is the active task. Check Git history/remote to establish the current commit/push state; earlier untracked-state notes are historical.
+- GitHub repository: https://github.com/paritosh-py/Lakhimpur-Control-Center (public). main tracks origin/main. Initial source commit665c869 verified remotely; this publication record is a subsequent documentation commit. Earlier untracked-state notes are historical.
 
 Historical conflicting files preserved under history/context-reconciliation-2026-10-11/. Older HANDOFF_HISTORY_2026-10-11.md also remains historical. See CURRENT_STATE.md for detailed architecture, limits and resume information.
 
@@ -40,5 +40,7 @@ User reported dark settlement hover background. Fixed Admin-scoped light-theme.c
 ## Header simplification — 2026-10-11
 User requested removing Pages/side panel and enlarging the heading. Removed drawer, backdrop, Pages trigger and associated state/Escape handler from LiveOverview.tsx. Main navigation tabs remain. Heading now full “Lakhimpur Control Center”, bold responsive26–36px via light-theme.css. Build passed; browser confirmed no sidebar/trigger,36px desktop heading and no390px viewport overflow. Screenshots light-heading-desktop/mobile.png. No backend/data changes; this supersedes earlier notes retaining the drawer.
 
-## GitHub publication preparation - 2026-10-16
+## GitHub publication completed - 2026-10-16
 README now describes current features/limits and credits Paritosh and Atulya (only Paritosh GitHub username verified). Account paritosh-py verified using existing sign-in. Public repository name approved by user. Ignore rules exclude local agent tools, credentials, runtime databases, APK/build artifacts, logs/signing material and screenshots containing possible report details. Files remain locally. Candidate source scan found no recognized secret patterns or matches to local configured secrets; this is a bounded scan, not a comprehensive security audit. No application code changed or application tests rerun for publication.
+
+Published888source/data/documentation files. GitHub API confirmed public visibility, main branch, matching initial source commit and README credits. Screenshots/raw caches/runtime data/APKs/tools remain local and excluded. Existing whitespace warnings in imported/older source were not reformatted. No application tests rerun for this documentation/repository task. Exact next action: user can share repository; latest Citizen phone acceptance remains pending, with no additional functional phase approved.
