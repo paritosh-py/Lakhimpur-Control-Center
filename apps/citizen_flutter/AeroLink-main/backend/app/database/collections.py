@@ -1,0 +1,4 @@
+USERS_COLLECTION = "users"
+NODES_COLLECTION = "nodes"
+INCIDENTS_COLLECTION = "incidents"
+ALERTS_COLLECTION = "alerts"

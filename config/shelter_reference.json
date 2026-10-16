@@ -1,0 +1,18 @@
+{
+  "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+  "source_file": "lakhimpur_ddmp_2025.pdf",
+  "page": 48,
+  "section": "3.8 Relief Camp Details",
+  "reference_year": 2025,
+  "note": "Manually transcribed and visually checked against the published table. Published capacities, not current available beds. Coordinates are document-listed, not field-verified. No names or phone numbers of individuals are extracted.",
+  "shelters": [
+    {"id":"ddma-1","name":"Kadam MV School","lat_dms":[27,18,42.76],"lon_dms":[94,9,28.07],"published_capacity":32},
+    {"id":"ddma-2","name":"Kadam HS School","lat_dms":[27,19,4.1],"lon_dms":[94,9,0.9],"published_capacity":40},
+    {"id":"ddma-3","name":"Kadam Janajati HS School","lat_dms":[27,17,48.45],"lon_dms":[94,9,5.25],"published_capacity":54},
+    {"id":"ddma-4","name":"Kadam Jatiya Vidyalay","lat_dms":[27,17,41.67],"lon_dms":[94,9,2.93],"published_capacity":40},
+    {"id":"ddma-5","name":"Na Ali Majgaon LP School","lat_dms":[27,18,5.0],"lon_dms":[94,7,53.8],"published_capacity":24},
+    {"id":"ddma-6","name":"No 2 Kakoi Rajgorh Dhekiajuli LP School","lat_dms":[27,19,45.3],"lon_dms":[94,5,19.9],"published_capacity":34},
+    {"id":"ddma-7","name":"Kadam Kachari LP School","lat_dms":[27,17,21.1],"lon_dms":[94,8,42.5],"published_capacity":24}
+  ],
+  "excluded": ["Row 8 and several later entries have malformed DMS seconds; excluded instead of silently correcting coordinates."]
+}

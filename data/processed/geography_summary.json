@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-10-10T10:35:26.554738+00:00",
+  "district": "Lakhimpur",
+  "state": "Assam",
+  "hazard": "flood",
+  "counts": {
+    "boundary": 1,
+    "roads": 800,
+    "settlements": 16,
+    "shelters": 7,
+    "waterways": 56
+  },
+  "graph_nodes": 748,
+  "connected_components": 1,
+  "excluded_gazetteer_entries": {
+    "geonames_ids": [
+      "12524297"
+    ],
+    "reasons": {
+      "12524297": "Kimin: border locality with conflicting administrative context. Gazetteer labels it Assam/Lakhimpur, while Papum Pare's official directory lists Kimin under its administration. Excluded conservatively from the study settlements pending point-level verification; original downloaded data is retained."
+    },
+    "evidence_url": "https://papumpare.nic.in/about-district/whos-who/"
+  },
+  "study_bounds": [
+    93.9149653,
+    27.0170528,
+    94.1831583,
+    27.3764105
+  ],
+  "boundary_area_km2": 2922.5,
+  "max_settlement_road_distance_m": 739.9,
+  "max_shelter_road_distance_m": 72.7,
+  "terrain": {
+    "provider": "Copernicus DEM GLO-90 (2021)",
+    "resolution_m": 90,
+    "type": "digital surface model",
+    "missing_samples": 0,
+    "road_sampling": "segment midpoint; local 3x3 slope"
+  },
+  "limitations": [
+    "Road status and last-mile access are unverified; topology is not proof of usable access.",
+    "Official GIS polygon area differs from the district profile's 2277 km² figure; published GIS boundary is used without reshaping to force an area match.",
+    "Shelter capacities are published in 2025; occupancy and current availability are unknown.",
+    "Population is unknown; no invented village counts.",
+    "90m surface elevation cannot resolve road deck heights or small embankments.",
+    "Current geography must not be treated as verified 2024 road topology."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Standard Demo Flood Scenario",
+  "description": "72-hour synthetic monsoon event across North Lakhimpur corridor demonstrating deteriorating access, confirmed road closure, shelter overflow, conflicting and stale reports, and resource strain.",
+  "seed": 42,
+  "start_time": "2024-06-25T00:00:00Z",
+  "duration_hours": 72,
+  "step_hours": 1,
+  "peak_rain_mm_h": 28.5,
+  "buildup_hours": 12,
+  "sustain_hours": 8,
+  "decay_hours": 16,
+  "resources": {
+    "num_teams": 3,
+    "num_vehicles": 4,
+    "num_boats": 2,
+    "shelter_capacity_factor": 0.7
+  },
+  "required_demo_situations": [
+    "Deteriorating access: rain buildup triggers road flood risk across low-lying segments near Subansiri/Ranganadi",
+    "Confirmed closure: segment flood probability crosses threshold causing simulated road closure",
+    "Insufficient shelter or transport capacity: relief camps reach capacity limit causing shelter overflow events",
+    "Conflicting or stale reports: citizen reports arrive delayed or contradicting actual ground truth",
+    "Unserved settlements and replanning: settlements cut off with unmet rescue/supply needs"
+  ]
+}

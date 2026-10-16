@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.15779722222223,
+          27.311877777777777
+        ]
+      },
+      "properties": {
+        "id": "ddma-1",
+        "name": "Kadam MV School",
+        "published_capacity": 32,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-636944287-0-12",
+        "graph_node_id": "2389850151",
+        "distance_to_road_m": 59.8,
+        "distance_to_graph_node_m": 485.9,
+        "access_verified": false,
+        "elevation_m": 96.09,
+        "slope_degrees": 1.295,
+        "distance_to_river_m": 2496.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.15025,
+          27.317805555555555
+        ]
+      },
+      "properties": {
+        "id": "ddma-2",
+        "name": "Kadam HS School",
+        "published_capacity": 40,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-230483864-0-5",
+        "graph_node_id": "12076628343",
+        "distance_to_road_m": 1.5,
+        "distance_to_graph_node_m": 643.0,
+        "access_verified": false,
+        "elevation_m": 99.88,
+        "slope_degrees": 1.06,
+        "distance_to_river_m": 3318.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.15145833333334,
+          27.296791666666667
+        ]
+      },
+      "properties": {
+        "id": "ddma-3",
+        "name": "Kadam Janajati HS School",
+        "published_capacity": 54,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-488371095-10-18",
+        "graph_node_id": "2317301556",
+        "distance_to_road_m": 72.7,
+        "distance_to_graph_node_m": 672.7,
+        "access_verified": false,
+        "elevation_m": 95.21,
+        "slope_degrees": 0.668,
+        "distance_to_river_m": 3288.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.15081388888889,
+          27.294908333333336
+        ]
+      },
+      "properties": {
+        "id": "ddma-4",
+        "name": "Kadam Jatiya Vidyalay",
+        "published_capacity": 40,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-488371095-10-18",
+        "graph_node_id": "2317301556",
+        "distance_to_road_m": 36.0,
+        "distance_to_graph_node_m": 882.7,
+        "access_verified": false,
+        "elevation_m": 92.45,
+        "slope_degrees": 1.74,
+        "distance_to_river_m": 3398.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1316111111111,
+          27.30138888888889
+        ]
+      },
+      "properties": {
+        "id": "ddma-5",
+        "name": "Na Ali Majgaon LP School",
+        "published_capacity": 24,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-230483863-20-44",
+        "graph_node_id": "2389850096",
+        "distance_to_road_m": 25.7,
+        "distance_to_graph_node_m": 31.8,
+        "access_verified": false,
+        "elevation_m": 97.17,
+        "slope_degrees": 0.767,
+        "distance_to_river_m": 5129.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0888611111111,
+          27.32925
+        ]
+      },
+      "properties": {
+        "id": "ddma-6",
+        "name": "No 2 Kakoi Rajgorh Dhekiajuli LP School",
+        "published_capacity": 34,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-1090624771-0-2",
+        "graph_node_id": "1698436391",
+        "distance_to_road_m": 20.0,
+        "distance_to_graph_node_m": 271.6,
+        "access_verified": false,
+        "elevation_m": 113.29,
+        "slope_degrees": 1.33,
+        "distance_to_river_m": 4730.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1451388888889,
+          27.289194444444448
+        ]
+      },
+      "properties": {
+        "id": "ddma-7",
+        "name": "Kadam Kachari LP School",
+        "published_capacity": 24,
+        "reference_year": 2025,
+        "current_capacity": null,
+        "occupied": null,
+        "operational_status": "unverified",
+        "source_page": 48,
+        "provenance": {
+          "source": "live",
+          "provider": "Lakhimpur DDMA Disaster Management Plan 2025",
+          "recorded_at": "2026-10-10T10:12:15.966689+00:00",
+          "label": "2025 PUBLISHED INVENTORY — not current shelter availability"
+        },
+        "nearest_segment_id": "osm-488371095-10-18",
+        "graph_node_id": "2389849986",
+        "distance_to_road_m": 6.8,
+        "distance_to_graph_node_m": 631.3,
+        "access_verified": false,
+        "elevation_m": 94.55,
+        "slope_degrees": 1.047,
+        "distance_to_river_m": 4128.8
+      }
+    }
+  ]
+}

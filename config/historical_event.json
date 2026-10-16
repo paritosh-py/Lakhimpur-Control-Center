@@ -1,0 +1,20 @@
+{
+  "event_id": "assam-2024-second-wave",
+  "name": "Assam floods 2024 — second wave",
+  "documented_wave_start": "2024-06-16",
+  "documented_wave_end": "2024-09-11",
+  "weather_window_start": "2024-06-25",
+  "weather_window_end": "2024-07-05",
+  "provider": "Government of Assam / ASDMA",
+  "source_file": "assam_flood_memorandum_2024.pdf",
+  "wave_source_pdf_page": 12,
+  "district_context_pdf_page": 18,
+  "district_context_period": "2024-05-01 through 2024-10-31",
+  "district_context": {"district":"Lakhimpur", "affected_revenue_circles":7, "affected_villages":379, "affected_population":175031},
+  "limitations": [
+    "District totals are cumulative seasonal context, not observations for individual weather-window hours.",
+    "No road-by-road closure ground truth was acquired.",
+    "ERA5 values are reanalysis, not forecasts that responders had in 2024.",
+    "Any generated road disruption overlay must remain simulated."
+  ]
+}

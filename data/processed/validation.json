@@ -1,0 +1,27 @@
+{
+  "validated_at": "2026-10-10T11:30:31.058720+00:00",
+  "source_hashes_verified": 14,
+  "counts": {
+    "boundary": 1,
+    "roads": 800,
+    "settlements": 16,
+    "shelters": 7,
+    "waterways": 56
+  },
+  "terrain_missing_samples": 0,
+  "connected_components": 1,
+  "weather": {
+    "live": {
+      "settlements": 16,
+      "grid_cells": 8,
+      "hourly_records": 3840,
+      "missing_values": 0
+    },
+    "historical": {
+      "settlements": 16,
+      "grid_cells": 3,
+      "hourly_records": 4224,
+      "missing_values": 0
+    }
+  }
+}

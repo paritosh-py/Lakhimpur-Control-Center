@@ -1,0 +1,48 @@
+{
+  "train": [
+    "synth-0042",
+    "synth-0043",
+    "synth-0044",
+    "synth-0045",
+    "synth-0046",
+    "synth-0047",
+    "synth-0048",
+    "synth-0049",
+    "synth-0050",
+    "synth-0051",
+    "synth-0052",
+    "synth-0053",
+    "synth-0054",
+    "synth-0055",
+    "synth-0056",
+    "synth-0057",
+    "synth-0058",
+    "synth-0059",
+    "synth-0060",
+    "synth-0061",
+    "synth-0062",
+    "synth-0063",
+    "synth-0064",
+    "synth-0065"
+  ],
+  "calibration": [
+    "synth-0066",
+    "synth-0067",
+    "synth-0068",
+    "synth-0069",
+    "synth-0070",
+    "synth-0071"
+  ],
+  "held_out": [
+    "synth-0072",
+    "synth-0073",
+    "synth-0074",
+    "synth-0075",
+    "synth-0076",
+    "synth-0077",
+    "synth-0078",
+    "synth-0079",
+    "synth-0080",
+    "synth-0081"
+  ]
+}

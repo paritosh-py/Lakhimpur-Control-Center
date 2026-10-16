@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AeroLink Node",
+  "type": "object",
+  "properties": {
+    "node_id": {"type": "string"},
+    "site_name": {"type": "string"},
+    "battery_percent": {"type": "number","minimum":0,"maximum":100},
+    "last_seen": {"type": "string"}
+  },
+  "required": ["node_id"]
+}

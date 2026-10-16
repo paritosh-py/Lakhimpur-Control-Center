@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AeroLink Alert",
+  "type": "object",
+  "properties": {
+    "alert_id": {"type": "string"},
+    "source": {"type": "string"},
+    "severity": {"type": "string"},
+    "headline": {"type": "string"},
+    "instruction": {"type": "string"}
+  },
+  "required": ["alert_id","source","severity","headline"]
+}

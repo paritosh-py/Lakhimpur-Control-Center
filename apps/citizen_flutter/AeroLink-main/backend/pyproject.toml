@@ -1,0 +1,12 @@
+[project]
+name = "aerolink-backend"
+version = "0.1.0"
+description = "Backend API and intelligence layer for AeroLink"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.141.1",
+    "pydantic-settings>=2.15.0",
+    "pymongo>=4.17.0",
+    "uvicorn[standard]>=0.52.4",
+]

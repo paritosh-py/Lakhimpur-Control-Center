@@ -1,0 +1,6414 @@
+{
+  "event_id": "synth-0042",
+  "WARNING": "GROUND TRUTH \u2014 never feed to engine or feature builder",
+  "ground_truth": [
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-8-9",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5983,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-39-44",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5905,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000693-0-2",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5539,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242965-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6012,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000699-0-2",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5565,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-43-47",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7674,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-87-95",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6674,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-113-115",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5585,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000741-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5541,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-12-16",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.695,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483884-0-4",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.614,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000747-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5719,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000751-0-2",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5584,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1078784441-0-41",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5853,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-22-26",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7243,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242941-0-4",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6205,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-37-39",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5732,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990939-23-35",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6265,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705148-0-3",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7484,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127473858-5-13",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6096,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-3-22",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6947,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-14-15",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5841,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-1-2",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6199,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-18-22",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5691,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-2-4",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6977,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-47-52",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5649,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-34-36",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7328,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-32-33",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6231,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-99-101",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7173,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-18-21",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.617,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411344-95-118",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6626,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-35-38",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7298,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-2-3",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5593,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-26-31",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6595,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-7-9",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6002,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-16-17",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5649,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-32-34",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.8033,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-49-51",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6752,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-48-62",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7681,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-41-43",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7161,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-49-51",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7026,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-39-43",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6528,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-74-76",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7798,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371987-0-10",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5806,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-31-33",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6899,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-50-51",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7565,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-196-197",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7503,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-102-105",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7414,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-20-29",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7495,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-29-30",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6578,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-43-48",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.676,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275430-1-4",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6168,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092488536-0-3",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7069,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242861-10-11",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5586,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-5-7",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6631,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-7-9",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6661,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-47-48",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6384,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-638483921-43-47",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6722,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483338-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.5548,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483888-1-3",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6212,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120287738-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.6267,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1086975881-0-1",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7172,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371988-64-86",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7205,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-16-18",
+      "status": "closed",
+      "at": "2024-06-25T14:00:00+00:00",
+      "flood_probability": 0.7216,
+      "rain_accum_6h": 0.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-104-110",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6422,
+      "rain_accum_6h": 1.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-101-102",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6243,
+      "rain_accum_6h": 2.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-34-39",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6636,
+      "rain_accum_6h": 2.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-46-58",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6314,
+      "rain_accum_6h": 1.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000692-0-2",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5645,
+      "rain_accum_6h": 2.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-9-11",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5801,
+      "rain_accum_6h": 1.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000703-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6504,
+      "rain_accum_6h": 2.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-47-49",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.662,
+      "rain_accum_6h": 2.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892977-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6771,
+      "rain_accum_6h": 2.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105303-0-2",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5845,
+      "rain_accum_6h": 1.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-16-22",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6266,
+      "rain_accum_6h": 2.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-101-103",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6518,
+      "rain_accum_6h": 1.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127473858-13-14",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5723,
+      "rain_accum_6h": 2.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-11-12",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5887,
+      "rain_accum_6h": 1.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-43-44",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7533,
+      "rain_accum_6h": 1.73
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-11-13",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7147,
+      "rain_accum_6h": 2.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-13-14",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5834,
+      "rain_accum_6h": 2.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-6-11",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.764,
+      "rain_accum_6h": 1.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663090-89-93",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5913,
+      "rain_accum_6h": 1.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-97-102",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6961,
+      "rain_accum_6h": 2.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-41-47",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6379,
+      "rain_accum_6h": 2.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-38-41",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6931,
+      "rain_accum_6h": 1.56
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-36-38",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7312,
+      "rain_accum_6h": 1.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127425521-0-27",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6623,
+      "rain_accum_6h": 1.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-29-31",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5956,
+      "rain_accum_6h": 2.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-31-32",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6469,
+      "rain_accum_6h": 1.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-187-192",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7687,
+      "rain_accum_6h": 1.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-110-186",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6621,
+      "rain_accum_6h": 2.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-41-45",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7903,
+      "rain_accum_6h": 1.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-45-49",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7396,
+      "rain_accum_6h": 1.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-17-18",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5723,
+      "rain_accum_6h": 1.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1090624772-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5725,
+      "rain_accum_6h": 2.08
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-1-2",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5979,
+      "rain_accum_6h": 2.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655616-9-13",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.571,
+      "rain_accum_6h": 2.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-90-99",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5941,
+      "rain_accum_6h": 1.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-72-74",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7171,
+      "rain_accum_6h": 2.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483889-0-11",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7558,
+      "rain_accum_6h": 1.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483861-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.706,
+      "rain_accum_6h": 2.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275425-20-21",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6184,
+      "rain_accum_6h": 2.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-0-8",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6644,
+      "rain_accum_6h": 1.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054485-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5642,
+      "rain_accum_6h": 2.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655608-0-6",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6159,
+      "rain_accum_6h": 1.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126662298-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5709,
+      "rain_accum_6h": 1.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669116-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5544,
+      "rain_accum_6h": 2.19
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483340-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5646,
+      "rain_accum_6h": 1.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483339-1-3",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5569,
+      "rain_accum_6h": 2.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554324-0-6",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5547,
+      "rain_accum_6h": 2.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-34-38",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7009,
+      "rain_accum_6h": 1.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105556-0-1",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.554,
+      "rain_accum_6h": 1.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-636944287-40-41",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7511,
+      "rain_accum_6h": 2.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120287738-1-2",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6748,
+      "rain_accum_6h": 2.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1090613630-0-2",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6391,
+      "rain_accum_6h": 1.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1086975880-0-4",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.7299,
+      "rain_accum_6h": 2.38
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-16-18",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5646,
+      "rain_accum_6h": 1.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-9-12",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6088,
+      "rain_accum_6h": 2.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483890-9-12",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.6857,
+      "rain_accum_6h": 1.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-2-4",
+      "status": "closed",
+      "at": "2024-06-25T15:00:00+00:00",
+      "flood_probability": 0.5562,
+      "rain_accum_6h": 1.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105550-0-4",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5596,
+      "rain_accum_6h": 7.43
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-17-19",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5877,
+      "rain_accum_6h": 8.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1079681080-0-62",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5963,
+      "rain_accum_6h": 9.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705148-6-9",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.667,
+      "rain_accum_6h": 9.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705148-3-6",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.8156,
+      "rain_accum_6h": 8.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-110-113",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6283,
+      "rain_accum_6h": 8.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-21-22",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5515,
+      "rain_accum_6h": 7.75
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-102-104",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7214,
+      "rain_accum_6h": 10.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-44-46",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6586,
+      "rain_accum_6h": 10.95
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483864-0-5",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6199,
+      "rain_accum_6h": 9.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105276-9-10",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5852,
+      "rain_accum_6h": 10.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105282-0-11",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5613,
+      "rain_accum_6h": 8.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000709-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6136,
+      "rain_accum_6h": 9.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-49-54",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7192,
+      "rain_accum_6h": 9.71
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-17-18",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6798,
+      "rain_accum_6h": 9.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-95-101",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6319,
+      "rain_accum_6h": 11.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126892975-115-116",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6848,
+      "rain_accum_6h": 10.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000740-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6071,
+      "rain_accum_6h": 9.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000744-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6142,
+      "rain_accum_6h": 11.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-22-29",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7182,
+      "rain_accum_6h": 9.49
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-32-34",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5625,
+      "rain_accum_6h": 9.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371985-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7687,
+      "rain_accum_6h": 10.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-13-22",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7769,
+      "rain_accum_6h": 11.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455327-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5618,
+      "rain_accum_6h": 11.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-22-23",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5964,
+      "rain_accum_6h": 8.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-12-13",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5579,
+      "rain_accum_6h": 11.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-81-93",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7066,
+      "rain_accum_6h": 8.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-209-213",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7115,
+      "rain_accum_6h": 11.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-38-63",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6826,
+      "rain_accum_6h": 7.71
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-179-187",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.703,
+      "rain_accum_6h": 10.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411347-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.8066,
+      "rain_accum_6h": 8.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-3-5",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5785,
+      "rain_accum_6h": 9.89
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411350-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7953,
+      "rain_accum_6h": 7.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990939-35-41",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7148,
+      "rain_accum_6h": 11.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598112-1-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5709,
+      "rain_accum_6h": 11.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-13-25",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7097,
+      "rain_accum_6h": 8.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-9-10",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.616,
+      "rain_accum_6h": 10.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-10-11",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6022,
+      "rain_accum_6h": 9.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554320-3-9",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5546,
+      "rain_accum_6h": 10.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554321-0-6",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6132,
+      "rain_accum_6h": 9.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554323-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5504,
+      "rain_accum_6h": 7.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-32-33",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7275,
+      "rain_accum_6h": 10.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102379-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5537,
+      "rain_accum_6h": 11.75
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-54-59",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7248,
+      "rain_accum_6h": 8.75
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-76-110",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.8053,
+      "rain_accum_6h": 11.12
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423069-12-16",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7306,
+      "rain_accum_6h": 7.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423073-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6893,
+      "rain_accum_6h": 10.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275425-0-19",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5523,
+      "rain_accum_6h": 10.94
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275427-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5841,
+      "rain_accum_6h": 10.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-31-32",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6395,
+      "rain_accum_6h": 7.56
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-23-31",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.663,
+      "rain_accum_6h": 9.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598113-23-30",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6275,
+      "rain_accum_6h": 10.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-87-99",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6383,
+      "rain_accum_6h": 11.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655604-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6124,
+      "rain_accum_6h": 8.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126659668-15-26",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5512,
+      "rain_accum_6h": 7.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-80-83",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6425,
+      "rain_accum_6h": 11.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-83-87",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6699,
+      "rain_accum_6h": 10.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483888-3-5",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6718,
+      "rain_accum_6h": 8.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990940-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6961,
+      "rain_accum_6h": 9.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-73-76",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.648,
+      "rain_accum_6h": 8.89
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1501457783-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6108,
+      "rain_accum_6h": 10.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483339-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6306,
+      "rain_accum_6h": 11.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483339-4-5",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5617,
+      "rain_accum_6h": 11.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483323-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5786,
+      "rain_accum_6h": 9.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-38-39",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7485,
+      "rain_accum_6h": 9.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120287739-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6642,
+      "rain_accum_6h": 11.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-27-28",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5883,
+      "rain_accum_6h": 8.27
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371988-57-64",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7217,
+      "rain_accum_6h": 9.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-65-72",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.707,
+      "rain_accum_6h": 10.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-63-65",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6338,
+      "rain_accum_6h": 8.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1078784443-0-55",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5747,
+      "rain_accum_6h": 11.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-636944286-0-1",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.575,
+      "rain_accum_6h": 11.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105531-0-2",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5523,
+      "rain_accum_6h": 11.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-33-36",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6055,
+      "rain_accum_6h": 11.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-32-33",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.655,
+      "rain_accum_6h": 8.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-15-16",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.6359,
+      "rain_accum_6h": 8.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483886-7-19",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.7124,
+      "rain_accum_6h": 10.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655610-29-31",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.5945,
+      "rain_accum_6h": 10.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-15-32",
+      "status": "closed",
+      "at": "2024-06-25T16:00:00+00:00",
+      "flood_probability": 0.594,
+      "rain_accum_6h": 7.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-19-20",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5714,
+      "rain_accum_6h": 26.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105358-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5767,
+      "rain_accum_6h": 29.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127485459-0-18",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.8217,
+      "rain_accum_6h": 26.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-636944287-12-40",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6906,
+      "rain_accum_6h": 29.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242926-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6336,
+      "rain_accum_6h": 23.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000695-0-3",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5739,
+      "rain_accum_6h": 23.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000697-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6211,
+      "rain_accum_6h": 24.12
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598113-10-23",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6167,
+      "rain_accum_6h": 24.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-19-20",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5587,
+      "rain_accum_6h": 24.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000710-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6238,
+      "rain_accum_6h": 28.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000713-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6238,
+      "rain_accum_6h": 20.62
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000717-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5856,
+      "rain_accum_6h": 23.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000739-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6158,
+      "rain_accum_6h": 21.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105264-0-6",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.624,
+      "rain_accum_6h": 25.51
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105264-6-13",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5947,
+      "rain_accum_6h": 26.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-9-20",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5781,
+      "rain_accum_6h": 23.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000749-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6079,
+      "rain_accum_6h": 28.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105548-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5635,
+      "rain_accum_6h": 25.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-29-32",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7354,
+      "rain_accum_6h": 20.43
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000752-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5687,
+      "rain_accum_6h": 29.19
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668514-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.775,
+      "rain_accum_6h": 28.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-26-28",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6045,
+      "rain_accum_6h": 25.27
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-44-69",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6844,
+      "rain_accum_6h": 21.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663089-0-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6917,
+      "rain_accum_6h": 22.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-24-25",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5873,
+      "rain_accum_6h": 25.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663089-5-10",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7309,
+      "rain_accum_6h": 25.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105278-3-9",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5906,
+      "rain_accum_6h": 27.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663090-95-98",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6267,
+      "rain_accum_6h": 27.36
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-93-97",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7264,
+      "rain_accum_6h": 26.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127425516-0-14",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7275,
+      "rain_accum_6h": 23.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-33-34",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.79,
+      "rain_accum_6h": 21.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-13-14",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5967,
+      "rain_accum_6h": 29.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105543-0-4",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6076,
+      "rain_accum_6h": 25.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5558,
+      "rain_accum_6h": 23.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7219,
+      "rain_accum_6h": 28.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-21-24",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6203,
+      "rain_accum_6h": 21.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-1-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6261,
+      "rain_accum_6h": 25.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105571-0-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5632,
+      "rain_accum_6h": 29.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-3-4",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5676,
+      "rain_accum_6h": 21.19
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105275-0-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5665,
+      "rain_accum_6h": 21.73
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-6-7",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5967,
+      "rain_accum_6h": 24.09
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105266-0-13",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5793,
+      "rain_accum_6h": 29.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-40-49",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6137,
+      "rain_accum_6h": 26.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-5-7",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7279,
+      "rain_accum_6h": 25.95
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483855-4-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7059,
+      "rain_accum_6h": 24.12
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483855-3-4",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6934,
+      "rain_accum_6h": 21.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025155-4-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5554,
+      "rain_accum_6h": 26.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105382-0-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5683,
+      "rain_accum_6h": 21.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598111-2-3",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6241,
+      "rain_accum_6h": 28.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105434-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5531,
+      "rain_accum_6h": 26.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554318-9-14",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5928,
+      "rain_accum_6h": 26.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-21-22",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6746,
+      "rain_accum_6h": 26.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-6-14",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5682,
+      "rain_accum_6h": 23.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126661775-90-94",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5682,
+      "rain_accum_6h": 20.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-2-9",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.626,
+      "rain_accum_6h": 23.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102322-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5572,
+      "rain_accum_6h": 29.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371987-10-28",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7541,
+      "rain_accum_6h": 23.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-24-31",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7339,
+      "rain_accum_6h": 26.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102332-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5538,
+      "rain_accum_6h": 24.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102334-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5689,
+      "rain_accum_6h": 27.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102346-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5848,
+      "rain_accum_6h": 23.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102363-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5646,
+      "rain_accum_6h": 28.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-33-34",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.757,
+      "rain_accum_6h": 29.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102369-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.587,
+      "rain_accum_6h": 26.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102376-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5737,
+      "rain_accum_6h": 26.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102378-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5853,
+      "rain_accum_6h": 28.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-5-11",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5963,
+      "rain_accum_6h": 22.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102388-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.605,
+      "rain_accum_6h": 28.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102389-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.562,
+      "rain_accum_6h": 24.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102396-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6419,
+      "rain_accum_6h": 22.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102398-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6685,
+      "rain_accum_6h": 26.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102404-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5522,
+      "rain_accum_6h": 21.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102405-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5563,
+      "rain_accum_6h": 25.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102414-0-3",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.623,
+      "rain_accum_6h": 21.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102417-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5844,
+      "rain_accum_6h": 29.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423069-0-12",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7825,
+      "rain_accum_6h": 21.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-488371095-0-3",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6286,
+      "rain_accum_6h": 27.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242861-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6326,
+      "rain_accum_6h": 22.02
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275430-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5949,
+      "rain_accum_6h": 23.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275426-6-20",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6946,
+      "rain_accum_6h": 26.49
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-5-12",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6113,
+      "rain_accum_6h": 28.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126832528-31-38",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.803,
+      "rain_accum_6h": 28.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483331-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5733,
+      "rain_accum_6h": 27.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126659668-0-15",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6376,
+      "rain_accum_6h": 27.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126659667-57-61",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6444,
+      "rain_accum_6h": 21.66
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127451582-6-8",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7615,
+      "rain_accum_6h": 25.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483325-3-7",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5759,
+      "rain_accum_6h": 28.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483324-11-12",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6684,
+      "rain_accum_6h": 27.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655604-7-13",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6391,
+      "rain_accum_6h": 23.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655604-2-6",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.615,
+      "rain_accum_6h": 24.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483888-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7123,
+      "rain_accum_6h": 22.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990939-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6758,
+      "rain_accum_6h": 29.08
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1501457784-0-8",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7542,
+      "rain_accum_6h": 28.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-76-80",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6231,
+      "rain_accum_6h": 26.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1086984082-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7845,
+      "rain_accum_6h": 24.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483325-0-3",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5811,
+      "rain_accum_6h": 26.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-39-40",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.778,
+      "rain_accum_6h": 21.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-25-27",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6883,
+      "rain_accum_6h": 28.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6891,
+      "rain_accum_6h": 26.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126661775-71-76",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6853,
+      "rain_accum_6h": 26.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120287738-2-5",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7342,
+      "rain_accum_6h": 21.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126662299-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7648,
+      "rain_accum_6h": 22.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-12-13",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5762,
+      "rain_accum_6h": 29.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105348-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5672,
+      "rain_accum_6h": 25.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105250-5-7",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5811,
+      "rain_accum_6h": 22.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1078784442-0-1",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6751,
+      "rain_accum_6h": 25.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105356-0-2",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6198,
+      "rain_accum_6h": 28.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-16-17",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5933,
+      "rain_accum_6h": 23.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105276-1-9",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.5968,
+      "rain_accum_6h": 27.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483885-26-41",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7199,
+      "rain_accum_6h": 28.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-5-6",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.6618,
+      "rain_accum_6h": 25.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-6-7",
+      "status": "closed",
+      "at": "2024-06-25T17:00:00+00:00",
+      "flood_probability": 0.7128,
+      "rain_accum_6h": 25.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-27-28",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6368,
+      "rain_accum_6h": 42.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242981-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6895,
+      "rain_accum_6h": 46.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105501-16-33",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5968,
+      "rain_accum_6h": 46.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483878-3-10",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7086,
+      "rain_accum_6h": 54.73
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105285-0-19",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.58,
+      "rain_accum_6h": 51.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-636944287-0-12",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7188,
+      "rain_accum_6h": 47.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000694-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6322,
+      "rain_accum_6h": 44.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025154-11-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7396,
+      "rain_accum_6h": 43.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000696-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6042,
+      "rain_accum_6h": 42.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000701-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7984,
+      "rain_accum_6h": 50.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598113-0-10",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.742,
+      "rain_accum_6h": 48.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000708-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6954,
+      "rain_accum_6h": 51.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105261-0-12",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.592,
+      "rain_accum_6h": 46.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000714-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5892,
+      "rain_accum_6h": 42.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000718-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7079,
+      "rain_accum_6h": 43.71
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1086984080-1-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8475,
+      "rain_accum_6h": 53.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000719-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.704,
+      "rain_accum_6h": 47.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000724-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6919,
+      "rain_accum_6h": 42.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000725-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6178,
+      "rain_accum_6h": 41.95
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598098-12-13",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7922,
+      "rain_accum_6h": 51.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598098-13-15",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7387,
+      "rain_accum_6h": 41.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105240-4-11",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6602,
+      "rain_accum_6h": 54.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1081694184-0-30",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7651,
+      "rain_accum_6h": 51.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105240-0-3",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6689,
+      "rain_accum_6h": 51.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000743-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6197,
+      "rain_accum_6h": 47.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105580-8-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6525,
+      "rain_accum_6h": 46.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-4-5",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7299,
+      "rain_accum_6h": 50.51
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105395-19-24",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6597,
+      "rain_accum_6h": 50.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-2-4",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6973,
+      "rain_accum_6h": 41.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127451582-0-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7891,
+      "rain_accum_6h": 49.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-41-42",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.9047,
+      "rain_accum_6h": 53.09
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242904-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6687,
+      "rain_accum_6h": 51.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-103-104",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8389,
+      "rain_accum_6h": 46.36
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127425522-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8522,
+      "rain_accum_6h": 53.04
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-34-37",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7418,
+      "rain_accum_6h": 44.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-44-46",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8456,
+      "rain_accum_6h": 53.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990939-4-23",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6307,
+      "rain_accum_6h": 46.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-22-24",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8107,
+      "rain_accum_6h": 45.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105233-6-8",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6577,
+      "rain_accum_6h": 51.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663089-10-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.72,
+      "rain_accum_6h": 51.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105297-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6755,
+      "rain_accum_6h": 45.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7507,
+      "rain_accum_6h": 45.38
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-13-14",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6645,
+      "rain_accum_6h": 45.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663090-93-95",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8026,
+      "rain_accum_6h": 51.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-4-5",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.722,
+      "rain_accum_6h": 50.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-11-13",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7235,
+      "rain_accum_6h": 49.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000727-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5943,
+      "rain_accum_6h": 52.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-34-35",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6135,
+      "rain_accum_6h": 51.08
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-192-196",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.826,
+      "rain_accum_6h": 43.26
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-30-41",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8664,
+      "rain_accum_6h": 47.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-16-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5509,
+      "rain_accum_6h": 42.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105501-0-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6276,
+      "rain_accum_6h": 45.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411349-0-10",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8643,
+      "rain_accum_6h": 43.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105409-0-26",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6248,
+      "rain_accum_6h": 49.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025155-3-4",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7183,
+      "rain_accum_6h": 41.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-9-11",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7535,
+      "rain_accum_6h": 49.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483855-1-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7371,
+      "rain_accum_6h": 44.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105275-5-13",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6233,
+      "rain_accum_6h": 42.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-11-13",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6839,
+      "rain_accum_6h": 50.89
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598110-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7406,
+      "rain_accum_6h": 52.94
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-15-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7127,
+      "rain_accum_6h": 48.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-16-17",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7914,
+      "rain_accum_6h": 46.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105273-0-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.749,
+      "rain_accum_6h": 52.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-2-3",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7961,
+      "rain_accum_6h": 42.68
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-11-14",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8324,
+      "rain_accum_6h": 41.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-14-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7082,
+      "rain_accum_6h": 47.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105568-4-5",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6383,
+      "rain_accum_6h": 48.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105611-6-7",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7484,
+      "rain_accum_6h": 42.27
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105611-7-8",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6892,
+      "rain_accum_6h": 42.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554319-0-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6443,
+      "rain_accum_6h": 42.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-21-22",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7058,
+      "rain_accum_6h": 45.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126661775-76-90",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6834,
+      "rain_accum_6h": 53.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127663245-0-7",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8101,
+      "rain_accum_6h": 41.68
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-197-201",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8257,
+      "rain_accum_6h": 42.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-201-209",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8552,
+      "rain_accum_6h": 48.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025154-4-7",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6817,
+      "rain_accum_6h": 46.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102320-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6331,
+      "rain_accum_6h": 47.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102327-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6676,
+      "rain_accum_6h": 48.83
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102330-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5525,
+      "rain_accum_6h": 43.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102333-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6855,
+      "rain_accum_6h": 51.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102342-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6329,
+      "rain_accum_6h": 42.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102348-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5609,
+      "rain_accum_6h": 42.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102351-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.585,
+      "rain_accum_6h": 42.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102354-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5918,
+      "rain_accum_6h": 49.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102355-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6691,
+      "rain_accum_6h": 52.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102359-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6816,
+      "rain_accum_6h": 44.95
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102370-1-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7023,
+      "rain_accum_6h": 44.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-11-12",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5919,
+      "rain_accum_6h": 46.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102380-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6735,
+      "rain_accum_6h": 47.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102383-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5981,
+      "rain_accum_6h": 45.01
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102384-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6642,
+      "rain_accum_6h": 54.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102385-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.67,
+      "rain_accum_6h": 48.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102387-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5967,
+      "rain_accum_6h": 44.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102390-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.637,
+      "rain_accum_6h": 45.27
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102395-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6667,
+      "rain_accum_6h": 44.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102400-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6458,
+      "rain_accum_6h": 53.87
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102408-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6049,
+      "rain_accum_6h": 50.38
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102409-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6176,
+      "rain_accum_6h": 42.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102410-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5793,
+      "rain_accum_6h": 41.26
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102416-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6372,
+      "rain_accum_6h": 50.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-9-13",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6684,
+      "rain_accum_6h": 54.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483889-11-15",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.9012,
+      "rain_accum_6h": 51.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8283,
+      "rain_accum_6h": 42.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127425522-1-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8385,
+      "rain_accum_6h": 52.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275426-0-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7765,
+      "rain_accum_6h": 49.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242861-6-7",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.747,
+      "rain_accum_6h": 54.27
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483887-101-103",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6954,
+      "rain_accum_6h": 53.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275431-0-8",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6872,
+      "rain_accum_6h": 47.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251562155-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6438,
+      "rain_accum_6h": 47.55
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251562156-0-4",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6944,
+      "rain_accum_6h": 53.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-12-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7073,
+      "rain_accum_6h": 50.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-28-29",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8934,
+      "rain_accum_6h": 47.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054486-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6876,
+      "rain_accum_6h": 44.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483326-0-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7812,
+      "rain_accum_6h": 54.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483382-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7715,
+      "rain_accum_6h": 50.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483329-16-19",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6836,
+      "rain_accum_6h": 42.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990938-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6291,
+      "rain_accum_6h": 43.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990939-1-4",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8804,
+      "rain_accum_6h": 44.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483339-5-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7303,
+      "rain_accum_6h": 52.84
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-17-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6759,
+      "rain_accum_6h": 44.84
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-18-19",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5651,
+      "rain_accum_6h": 43.71
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105616-0-2",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6341,
+      "rain_accum_6h": 43.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120732756-51-53",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7716,
+      "rain_accum_6h": 48.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-2-6",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7246,
+      "rain_accum_6h": 44.12
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-40-41",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8602,
+      "rain_accum_6h": 41.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-636944287-41-42",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8707,
+      "rain_accum_6h": 54.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-48-49",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8314,
+      "rain_accum_6h": 44.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-49-50",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8254,
+      "rain_accum_6h": 53.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-12-14",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6306,
+      "rain_accum_6h": 47.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-488371095-10-18",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7649,
+      "rain_accum_6h": 48.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655608-6-16",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7275,
+      "rain_accum_6h": 50.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-12-14",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8144,
+      "rain_accum_6h": 42.68
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105276-0-1",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6138,
+      "rain_accum_6h": 48.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-488371095-3-10",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7501,
+      "rain_accum_6h": 54.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105538-4-8",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6334,
+      "rain_accum_6h": 54.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105583-0-7",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6913,
+      "rain_accum_6h": 47.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483863-20-44",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.6696,
+      "rain_accum_6h": 48.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655606-0-8",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7195,
+      "rain_accum_6h": 48.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655615-9-15",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.7899,
+      "rain_accum_6h": 48.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105488-25-26",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.5906,
+      "rain_accum_6h": 45.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-4-5",
+      "status": "closed",
+      "at": "2024-06-25T18:00:00+00:00",
+      "flood_probability": 0.8205,
+      "rain_accum_6h": 44.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-28-29",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7587,
+      "rain_accum_6h": 68.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-29-31",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.806,
+      "rain_accum_6h": 71.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105467-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7479,
+      "rain_accum_6h": 78.02
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105254-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8031,
+      "rain_accum_6h": 83.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105254-3-11",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7624,
+      "rain_accum_6h": 81.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-22-23",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7494,
+      "rain_accum_6h": 73.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-7-8",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8363,
+      "rain_accum_6h": 72.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-33-34",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7795,
+      "rain_accum_6h": 76.56
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000706-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7643,
+      "rain_accum_6h": 71.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105546-0-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7823,
+      "rain_accum_6h": 71.09
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000707-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7915,
+      "rain_accum_6h": 75.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000715-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7564,
+      "rain_accum_6h": 68.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000720-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7602,
+      "rain_accum_6h": 77.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000721-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7561,
+      "rain_accum_6h": 77.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-0-12",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8822,
+      "rain_accum_6h": 81.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000748-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8424,
+      "rain_accum_6h": 84.02
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105589-6-7",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8028,
+      "rain_accum_6h": 81.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000750-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8107,
+      "rain_accum_6h": 70.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000753-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7539,
+      "rain_accum_6h": 68.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126842329-58-61",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8333,
+      "rain_accum_6h": 68.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105453-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7484,
+      "rain_accum_6h": 75.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105562-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6206,
+      "rain_accum_6h": 73.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.9234,
+      "rain_accum_6h": 82.94
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092484013-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8572,
+      "rain_accum_6h": 81.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242935-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7869,
+      "rain_accum_6h": 73.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-30-31",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7102,
+      "rain_accum_6h": 68.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-22-23",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8215,
+      "rain_accum_6h": 81.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598098-0-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8923,
+      "rain_accum_6h": 85.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105248-0-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6627,
+      "rain_accum_6h": 74.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-51-61",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.857,
+      "rain_accum_6h": 72.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-61-81",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8988,
+      "rain_accum_6h": 80.49
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000728-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.725,
+      "rain_accum_6h": 75.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-213-214",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.9337,
+      "rain_accum_6h": 78.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-36-39",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7362,
+      "rain_accum_6h": 75.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455324-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8325,
+      "rain_accum_6h": 83.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-5-6",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8375,
+      "rain_accum_6h": 73.46
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105535-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8194,
+      "rain_accum_6h": 73.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-31-35",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.903,
+      "rain_accum_6h": 81.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-18-21",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8091,
+      "rain_accum_6h": 72.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-1-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7772,
+      "rain_accum_6h": 75.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-0-13",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.9109,
+      "rain_accum_6h": 83.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-5-6",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7251,
+      "rain_accum_6h": 68.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-4-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8005,
+      "rain_accum_6h": 82.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-6-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8386,
+      "rain_accum_6h": 80.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105231-2-8",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8345,
+      "rain_accum_6h": 82.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483855-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8047,
+      "rain_accum_6h": 69.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105574-0-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7531,
+      "rain_accum_6h": 73.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-6-7",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8316,
+      "rain_accum_6h": 81.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105275-13-17",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8099,
+      "rain_accum_6h": 80.04
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105611-4-6",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8034,
+      "rain_accum_6h": 73.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105566-0-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8415,
+      "rain_accum_6h": 82.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105382-16-19",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7545,
+      "rain_accum_6h": 68.55
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105568-0-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7711,
+      "rain_accum_6h": 84.09
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965347668-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8395,
+      "rain_accum_6h": 77.94
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655616-0-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8382,
+      "rain_accum_6h": 81.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025154-3-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6666,
+      "rain_accum_6h": 72.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102326-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6906,
+      "rain_accum_6h": 72.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102336-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.5607,
+      "rain_accum_6h": 74.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102341-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7096,
+      "rain_accum_6h": 81.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102343-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6111,
+      "rain_accum_6h": 74.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102344-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7245,
+      "rain_accum_6h": 77.74
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102347-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.5761,
+      "rain_accum_6h": 78.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-8-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7614,
+      "rain_accum_6h": 68.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102353-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6979,
+      "rain_accum_6h": 69.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102357-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7043,
+      "rain_accum_6h": 77.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102360-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7556,
+      "rain_accum_6h": 74.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102361-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6711,
+      "rain_accum_6h": 71.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102367-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6457,
+      "rain_accum_6h": 71.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102392-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7427,
+      "rain_accum_6h": 81.51
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102397-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8221,
+      "rain_accum_6h": 76.71
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102399-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7155,
+      "rain_accum_6h": 72.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102401-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7519,
+      "rain_accum_6h": 79.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102407-0-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8083,
+      "rain_accum_6h": 76.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025154-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.737,
+      "rain_accum_6h": 77.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102413-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7359,
+      "rain_accum_6h": 74.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102415-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7711,
+      "rain_accum_6h": 84.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242861-2-6",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7624,
+      "rain_accum_6h": 78.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-18-20",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8892,
+      "rain_accum_6h": 80.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275425-21-22",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8184,
+      "rain_accum_6h": 68.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275428-13-15",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8125,
+      "rain_accum_6h": 79.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126669115-0-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7838,
+      "rain_accum_6h": 68.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092488536-3-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8825,
+      "rain_accum_6h": 80.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-25-26",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7807,
+      "rain_accum_6h": 77.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126665312-0-14",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8703,
+      "rain_accum_6h": 79.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126921669-8-35",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8617,
+      "rain_accum_6h": 71.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054484-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.853,
+      "rain_accum_6h": 78.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054489-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7696,
+      "rain_accum_6h": 83.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483332-2-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.807,
+      "rain_accum_6h": 75.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126659669-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8642,
+      "rain_accum_6h": 84.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483329-0-9",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8159,
+      "rain_accum_6h": 73.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483338-1-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7896,
+      "rain_accum_6h": 81.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483339-3-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7892,
+      "rain_accum_6h": 81.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105539-4-8",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8186,
+      "rain_accum_6h": 81.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371988-0-57",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8975,
+      "rain_accum_6h": 82.36
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-13-14",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8093,
+      "rain_accum_6h": 74.49
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-11-12",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7862,
+      "rain_accum_6h": 68.12
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105450-0-2",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7791,
+      "rain_accum_6h": 68.03
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105250-0-5",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.6763,
+      "rain_accum_6h": 74.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105568-5-6",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.72,
+      "rain_accum_6h": 83.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105538-0-4",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.7631,
+      "rain_accum_6h": 82.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371986-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.9173,
+      "rain_accum_6h": 68.43
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105321-0-1",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.777,
+      "rain_accum_6h": 82.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105530-0-3",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8313,
+      "rain_accum_6h": 83.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105282-11-18",
+      "status": "closed",
+      "at": "2024-06-25T19:00:00+00:00",
+      "flood_probability": 0.8043,
+      "rain_accum_6h": 84.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-26-27",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8106,
+      "rain_accum_6h": 94.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105501-33-37",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8569,
+      "rain_accum_6h": 101.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545459400-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7789,
+      "rain_accum_6h": 99.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483850-20-22",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8726,
+      "rain_accum_6h": 101.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1304068609-0-4",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7987,
+      "rain_accum_6h": 93.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-2-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8262,
+      "rain_accum_6h": 105.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105564-0-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7945,
+      "rain_accum_6h": 92.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-32-33",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7794,
+      "rain_accum_6h": 99.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-1-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7703,
+      "rain_accum_6h": 104.89
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000698-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8236,
+      "rain_accum_6h": 97.38
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105589-0-6",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8235,
+      "rain_accum_6h": 97.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000700-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8443,
+      "rain_accum_6h": 99.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483863-0-20",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8222,
+      "rain_accum_6h": 101.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000704-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8568,
+      "rain_accum_6h": 102.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105418-5-16",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7162,
+      "rain_accum_6h": 95.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-34-39",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.816,
+      "rain_accum_6h": 99.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000722-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8462,
+      "rain_accum_6h": 96.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105240-3-4",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.795,
+      "rain_accum_6h": 98.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105527-0-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8333,
+      "rain_accum_6h": 100.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000742-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8537,
+      "rain_accum_6h": 103.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000746-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8405,
+      "rain_accum_6h": 92.0
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000754-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.828,
+      "rain_accum_6h": 97.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8123,
+      "rain_accum_6h": 97.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105580-0-8",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8127,
+      "rain_accum_6h": 94.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-25-26",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8383,
+      "rain_accum_6h": 103.26
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105251-0-8",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8483,
+      "rain_accum_6h": 94.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1070125593-0-23",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7644,
+      "rain_accum_6h": 100.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1070124443-0-28",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8453,
+      "rain_accum_6h": 94.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598098-9-12",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9039,
+      "rain_accum_6h": 102.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105278-0-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8242,
+      "rain_accum_6h": 97.04
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1120732756-53-55",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8381,
+      "rain_accum_6h": 99.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-14-15",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8676,
+      "rain_accum_6h": 95.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-30-32",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9354,
+      "rain_accum_6h": 99.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105488-15-19",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8642,
+      "rain_accum_6h": 101.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127425522-6-40",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9422,
+      "rain_accum_6h": 95.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1215102914-0-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9091,
+      "rain_accum_6h": 103.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-35-36",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8412,
+      "rain_accum_6h": 104.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455322-0-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8444,
+      "rain_accum_6h": 103.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455323-0-4",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8495,
+      "rain_accum_6h": 94.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105278-9-16",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8627,
+      "rain_accum_6h": 104.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127446814-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9175,
+      "rain_accum_6h": 102.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8251,
+      "rain_accum_6h": 96.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411344-118-124",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9531,
+      "rain_accum_6h": 95.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105238-0-9",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8131,
+      "rain_accum_6h": 95.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025155-2-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8635,
+      "rain_accum_6h": 98.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483855-2-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8654,
+      "rain_accum_6h": 98.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105428-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.926,
+      "rain_accum_6h": 94.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598108-5-6",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8532,
+      "rain_accum_6h": 99.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105551-0-4",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7878,
+      "rain_accum_6h": 96.41
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-1-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8309,
+      "rain_accum_6h": 96.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105382-5-16",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8837,
+      "rain_accum_6h": 93.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-35-41",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9374,
+      "rain_accum_6h": 94.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105382-19-20",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.778,
+      "rain_accum_6h": 97.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1090624771-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8097,
+      "rain_accum_6h": 100.48
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-7-8",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7922,
+      "rain_accum_6h": 103.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102323-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7806,
+      "rain_accum_6h": 92.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102324-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8102,
+      "rain_accum_6h": 102.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102325-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7832,
+      "rain_accum_6h": 93.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102328-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7903,
+      "rain_accum_6h": 97.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102335-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8249,
+      "rain_accum_6h": 97.77
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102339-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8054,
+      "rain_accum_6h": 97.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102350-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7987,
+      "rain_accum_6h": 97.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102358-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.792,
+      "rain_accum_6h": 100.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102365-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.794,
+      "rain_accum_6h": 101.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102368-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8719,
+      "rain_accum_6h": 95.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025154-7-11",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.855,
+      "rain_accum_6h": 94.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-20-23",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8746,
+      "rain_accum_6h": 104.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102386-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8528,
+      "rain_accum_6h": 103.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102393-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8332,
+      "rain_accum_6h": 103.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102394-0-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8541,
+      "rain_accum_6h": 99.61
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102411-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7887,
+      "rain_accum_6h": 100.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102412-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8556,
+      "rain_accum_6h": 93.84
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275425-19-20",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8323,
+      "rain_accum_6h": 96.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275428-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.881,
+      "rain_accum_6h": 98.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-1-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9326,
+      "rain_accum_6h": 92.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275432-0-1",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8901,
+      "rain_accum_6h": 97.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-23-24",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7671,
+      "rain_accum_6h": 96.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054488-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8725,
+      "rain_accum_6h": 103.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598097-0-3",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9707,
+      "rain_accum_6h": 101.19
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-30-36",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8843,
+      "rain_accum_6h": 104.69
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1090613629-0-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.891,
+      "rain_accum_6h": 92.96
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105431-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8031,
+      "rain_accum_6h": 95.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-7-11",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8805,
+      "rain_accum_6h": 97.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105250-7-11",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8742,
+      "rain_accum_6h": 105.1
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-4-5",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.7234,
+      "rain_accum_6h": 93.75
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423072-14-16",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9604,
+      "rain_accum_6h": 97.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105231-0-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.9029,
+      "rain_accum_6h": 104.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487158-1-2",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8925,
+      "rain_accum_6h": 104.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105252-0-11",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8121,
+      "rain_accum_6h": 104.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105488-19-25",
+      "status": "closed",
+      "at": "2024-06-25T20:00:00+00:00",
+      "flood_probability": 0.8573,
+      "rain_accum_6h": 100.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105606-0-8",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8883,
+      "rain_accum_6h": 120.13
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483878-10-21",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8527,
+      "rain_accum_6h": 122.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-31-32",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8822,
+      "rain_accum_6h": 120.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-32-34",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8298,
+      "rain_accum_6h": 113.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-31-32",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9244,
+      "rain_accum_6h": 116.55
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000702-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8881,
+      "rain_accum_6h": 121.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000705-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9231,
+      "rain_accum_6h": 119.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000738-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9211,
+      "rain_accum_6h": 114.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1068456699-0-54",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9391,
+      "rain_accum_6h": 111.57
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000729-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8591,
+      "rain_accum_6h": 113.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455328-0-7",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8437,
+      "rain_accum_6h": 115.67
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-15-16",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8758,
+      "rain_accum_6h": 121.18
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-1-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8712,
+      "rain_accum_6h": 113.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-775663091-0-5",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9213,
+      "rain_accum_6h": 121.65
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-2-7",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8735,
+      "rain_accum_6h": 118.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-76-77",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8608,
+      "rain_accum_6h": 117.94
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092489635-0-5",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8968,
+      "rain_accum_6h": 111.85
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-18-22",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8722,
+      "rain_accum_6h": 120.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-5-6",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8638,
+      "rain_accum_6h": 114.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-7-8",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9074,
+      "rain_accum_6h": 117.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411348-0-21",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9668,
+      "rain_accum_6h": 116.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-327025155-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8858,
+      "rain_accum_6h": 119.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371989-178-179",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9615,
+      "rain_accum_6h": 114.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105549-0-4",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8992,
+      "rain_accum_6h": 113.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554318-0-9",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8514,
+      "rain_accum_6h": 115.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102316-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8558,
+      "rain_accum_6h": 116.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102318-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8582,
+      "rain_accum_6h": 117.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102321-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.7695,
+      "rain_accum_6h": 120.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102338-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8333,
+      "rain_accum_6h": 112.49
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102340-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8306,
+      "rain_accum_6h": 113.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102345-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.907,
+      "rain_accum_6h": 121.04
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102349-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.776,
+      "rain_accum_6h": 114.36
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102362-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8545,
+      "rain_accum_6h": 121.9
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102364-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8766,
+      "rain_accum_6h": 118.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102370-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8807,
+      "rain_accum_6h": 111.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102373-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8942,
+      "rain_accum_6h": 115.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102377-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8766,
+      "rain_accum_6h": 116.01
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102403-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9006,
+      "rain_accum_6h": 123.14
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102406-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.888,
+      "rain_accum_6h": 116.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105539-8-21",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8933,
+      "rain_accum_6h": 123.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-24-25",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8698,
+      "rain_accum_6h": 114.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054490-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8702,
+      "rain_accum_6h": 120.42
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054491-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8327,
+      "rain_accum_6h": 122.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483341-2-3",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.906,
+      "rain_accum_6h": 116.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483342-0-6",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9208,
+      "rain_accum_6h": 115.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483341-0-2",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8904,
+      "rain_accum_6h": 113.44
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483324-0-11",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.9199,
+      "rain_accum_6h": 120.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-36-40",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8765,
+      "rain_accum_6h": 121.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105539-0-4",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.866,
+      "rain_accum_6h": 114.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105305-0-1",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8852,
+      "rain_accum_6h": 120.26
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105265-0-12",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8638,
+      "rain_accum_6h": 122.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483882-0-38",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.7934,
+      "rain_accum_6h": 121.68
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-20-21",
+      "status": "closed",
+      "at": "2024-06-25T21:00:00+00:00",
+      "flood_probability": 0.8779,
+      "rain_accum_6h": 123.33
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483856-0-11",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9688,
+      "rain_accum_6h": 135.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105276-10-17",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9277,
+      "rain_accum_6h": 134.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-20-21",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9476,
+      "rain_accum_6h": 133.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000711-0-1",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8941,
+      "rain_accum_6h": 138.87
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000712-0-1",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9344,
+      "rain_accum_6h": 132.38
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483864-5-20",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9497,
+      "rain_accum_6h": 131.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105548-1-5",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9379,
+      "rain_accum_6h": 132.4
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-69412780-42-43",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9686,
+      "rain_accum_6h": 131.95
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-29-30",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9421,
+      "rain_accum_6h": 133.08
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105614-0-8",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.882,
+      "rain_accum_6h": 132.08
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105562-2-5",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.833,
+      "rain_accum_6h": 129.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483876-69-73",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9491,
+      "rain_accum_6h": 136.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092455328-7-15",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8848,
+      "rain_accum_6h": 137.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-14-15",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9236,
+      "rain_accum_6h": 134.21
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127436018-0-6",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9639,
+      "rain_accum_6h": 140.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000726-0-1",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8693,
+      "rain_accum_6h": 133.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-8-11",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9348,
+      "rain_accum_6h": 138.76
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-5-6",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9236,
+      "rain_accum_6h": 136.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1193990937-6-7",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9331,
+      "rain_accum_6h": 137.75
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105593-0-7",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8627,
+      "rain_accum_6h": 127.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554322-0-7",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8796,
+      "rain_accum_6h": 137.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-87-90",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9197,
+      "rain_accum_6h": 126.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102317-0-1",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.918,
+      "rain_accum_6h": 126.93
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102352-0-2",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8977,
+      "rain_accum_6h": 135.07
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102356-0-2",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8832,
+      "rain_accum_6h": 130.82
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102366-0-2",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.869,
+      "rain_accum_6h": 136.02
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102381-0-2",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8792,
+      "rain_accum_6h": 128.23
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423071-0-1",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9658,
+      "rain_accum_6h": 138.64
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-77-78",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8875,
+      "rain_accum_6h": 131.28
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-155248829-78-87",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.874,
+      "rain_accum_6h": 135.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483329-9-16",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9296,
+      "rain_accum_6h": 136.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127669617-0-19",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9467,
+      "rain_accum_6h": 135.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105582-0-6",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.91,
+      "rain_accum_6h": 134.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105418-0-5",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8917,
+      "rain_accum_6h": 130.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-23-25",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9336,
+      "rain_accum_6h": 136.6
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105244-6-9",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.8804,
+      "rain_accum_6h": 135.63
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105244-0-6",
+      "status": "closed",
+      "at": "2024-06-25T22:00:00+00:00",
+      "flood_probability": 0.9434,
+      "rain_accum_6h": 139.58
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105418-16-28",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.8897,
+      "rain_accum_6h": 143.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-18-19",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9231,
+      "rain_accum_6h": 147.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000716-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9351,
+      "rain_accum_6h": 139.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1086984080-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9674,
+      "rain_accum_6h": 142.2
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1359705147-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9391,
+      "rain_accum_6h": 141.22
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1304058428-0-11",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9365,
+      "rain_accum_6h": 139.84
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423068-28-30",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9671,
+      "rain_accum_6h": 141.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105611-0-4",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9327,
+      "rain_accum_6h": 139.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105514-0-3",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9006,
+      "rain_accum_6h": 137.24
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-15-16",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9335,
+      "rain_accum_6h": 136.81
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1251554320-0-3",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.8956,
+      "rain_accum_6h": 150.98
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102329-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9173,
+      "rain_accum_6h": 151.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102337-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.899,
+      "rain_accum_6h": 139.53
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9602,
+      "rain_accum_6h": 139.47
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102372-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.8591,
+      "rain_accum_6h": 140.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102371-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9252,
+      "rain_accum_6h": 139.78
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102374-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9317,
+      "rain_accum_6h": 138.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102375-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.8799,
+      "rain_accum_6h": 138.37
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102382-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9042,
+      "rain_accum_6h": 147.62
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092488535-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9808,
+      "rain_accum_6h": 151.34
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1304068608-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.887,
+      "rain_accum_6h": 139.17
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275428-2-13",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9578,
+      "rain_accum_6h": 150.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-965275429-0-1",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9335,
+      "rain_accum_6h": 148.35
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483332-0-2",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.8958,
+      "rain_accum_6h": 136.55
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105516-0-3",
+      "status": "closed",
+      "at": "2024-06-25T23:00:00+00:00",
+      "flood_probability": 0.9224,
+      "rain_accum_6h": 138.15
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105599-0-7",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.8992,
+      "rain_accum_6h": 150.52
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242869-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9578,
+      "rain_accum_6h": 143.01
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000745-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9263,
+      "rain_accum_6h": 154.86
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105406-5-9",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9467,
+      "rain_accum_6h": 154.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9045,
+      "rain_accum_6h": 141.72
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-224371987-28-33",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9595,
+      "rain_accum_6h": 152.5
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105233-0-6",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9531,
+      "rain_accum_6h": 154.04
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102331-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.8892,
+      "rain_accum_6h": 157.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102402-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9365,
+      "rain_accum_6h": 158.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-978242861-7-10",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9214,
+      "rain_accum_6h": 154.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545054487-0-1",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9069,
+      "rain_accum_6h": 148.59
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-14-15",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9307,
+      "rain_accum_6h": 148.54
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-19-20",
+      "status": "closed",
+      "at": "2024-06-26T00:00:00+00:00",
+      "flood_probability": 0.9224,
+      "rain_accum_6h": 158.26
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092447995-3-4",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9368,
+      "rain_accum_6h": 160.87
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127473858-0-5",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9754,
+      "rain_accum_6h": 156.25
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545000723-0-2",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.935,
+      "rain_accum_6h": 158.16
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105488-0-15",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9207,
+      "rain_accum_6h": 161.31
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105395-0-19",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9139,
+      "rain_accum_6h": 152.92
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-238668521-46-47",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9825,
+      "rain_accum_6h": 153.39
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-14-15",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9352,
+      "rain_accum_6h": 160.79
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102391-0-1",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9368,
+      "rain_accum_6h": 148.3
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127423070-0-4",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9547,
+      "rain_accum_6h": 160.99
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1126665312-14-52",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9463,
+      "rain_accum_6h": 150.29
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598099-14-16",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9586,
+      "rain_accum_6h": 159.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-28-30",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9389,
+      "rain_accum_6h": 159.88
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105329-0-1",
+      "status": "closed",
+      "at": "2024-06-26T01:00:00+00:00",
+      "flood_probability": 0.9375,
+      "rain_accum_6h": 153.45
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1070124443-28-58",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.9239,
+      "rain_accum_6h": 165.02
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-225365514-16-17",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.9387,
+      "rain_accum_6h": 164.8
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092487157-22-23",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.9318,
+      "rain_accum_6h": 160.91
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-230483878-0-3",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.8818,
+      "rain_accum_6h": 168.55
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127655604-6-7",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.9261,
+      "rain_accum_6h": 156.11
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105538-8-10",
+      "status": "closed",
+      "at": "2024-06-26T02:00:00+00:00",
+      "flood_probability": 0.9125,
+      "rain_accum_6h": 159.7
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-520105248-9-10",
+      "status": "closed",
+      "at": "2024-06-26T03:00:00+00:00",
+      "flood_probability": 0.9343,
+      "rain_accum_6h": 162.97
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1127411344-124-125",
+      "status": "closed",
+      "at": "2024-06-26T03:00:00+00:00",
+      "flood_probability": 0.9697,
+      "rain_accum_6h": 161.09
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1545102319-0-1",
+      "status": "closed",
+      "at": "2024-06-26T06:00:00+00:00",
+      "flood_probability": 0.9139,
+      "rain_accum_6h": 157.06
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-1092483330-0-3",
+      "status": "closed",
+      "at": "2024-06-26T06:00:00+00:00",
+      "flood_probability": 0.9599,
+      "rain_accum_6h": 155.32
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-157598104-28-29",
+      "status": "closed",
+      "at": "2024-06-26T07:00:00+00:00",
+      "flood_probability": 0.9201,
+      "rain_accum_6h": 142.05
+    },
+    {
+      "kind": "segment_status",
+      "segment_id": "osm-519398062-25-41",
+      "status": "closed",
+      "at": "2024-06-26T07:00:00+00:00",
+      "flood_probability": 0.9735,
+      "rain_accum_6h": 146.57
+    },
+    {
+      "kind": "final_snapshot",
+      "at": "2024-06-27T14:00:00+00:00",
+      "segments_closed": 800,
+      "segments_total": 800,
+      "settlements_needing_rescue": 15,
+      "shelters_over_capacity": 2
+    }
+  ]
+}

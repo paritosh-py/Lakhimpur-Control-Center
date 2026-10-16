@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AeroLink Incident",
+  "type": "object",
+  "properties": {
+    "message_id": {"type": "string"},
+    "node_id": {"type": "string"},
+    "status": {
+      "type": "string",
+      "enum": ["NEW","ACKNOWLEDGED","ASSIGNED","RESOLVED"]
+    }
+  },
+  "required": ["message_id","status"]
+}

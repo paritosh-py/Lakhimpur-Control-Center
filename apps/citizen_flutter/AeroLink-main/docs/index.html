@@ -1,0 +1,1139 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>AeroLink — Emergency Communication</title>
+
+        <style>
+            /* =========================================================
+           RESET
+        ========================================================= */
+
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            html,
+            body {
+                width: 100%;
+                height: 100%;
+            }
+
+            body {
+                overflow: hidden;
+                font-family:
+                    Inter,
+                    ui-sans-serif,
+                    system-ui,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    "Segoe UI",
+                    sans-serif;
+
+                background: #fafafa;
+                color: #151515;
+            }
+
+            a {
+                color: inherit;
+                text-decoration: none;
+            }
+
+            /* =========================================================
+           MAIN SCREEN
+        ========================================================= */
+
+            .page {
+                position: relative;
+
+                width: 100vw;
+                height: 100vh;
+                min-height: 600px;
+
+                overflow: hidden;
+
+                background:
+                    radial-gradient(
+                        circle at 82% 42%,
+                        rgba(255, 111, 32, 0.1),
+                        transparent 30%
+                    ),
+                    linear-gradient(120deg, #ffffff 0%, #fffaf7 100%);
+            }
+
+            /* =========================================================
+           BACKGROUND GRAPHICS
+        ========================================================= */
+
+            .background-grid {
+                position: absolute;
+                inset: 0;
+
+                opacity: 0.35;
+
+                background-image:
+                    linear-gradient(rgba(0, 0, 0, 0.035) 1px, transparent 1px),
+                    linear-gradient(
+                        90deg,
+                        rgba(0, 0, 0, 0.035) 1px,
+                        transparent 1px
+                    );
+
+                background-size: 55px 55px;
+
+                mask-image: linear-gradient(
+                    to right,
+                    black 0%,
+                    transparent 75%
+                );
+            }
+
+            .orange-glow {
+                position: absolute;
+
+                width: 550px;
+                height: 550px;
+
+                right: -170px;
+                top: 50%;
+
+                transform: translateY(-50%);
+
+                border-radius: 50%;
+
+                background: rgba(255, 103, 27, 0.09);
+
+                filter: blur(15px);
+            }
+
+            .circle {
+                position: absolute;
+
+                border: 1px solid rgba(255, 103, 27, 0.13);
+
+                border-radius: 50%;
+            }
+
+            .circle.one {
+                width: 500px;
+                height: 500px;
+
+                right: -120px;
+                top: 50%;
+
+                transform: translateY(-50%);
+            }
+
+            .circle.two {
+                width: 680px;
+                height: 680px;
+
+                right: -210px;
+                top: 50%;
+
+                transform: translateY(-50%);
+            }
+
+            /* =========================================================
+           NAVBAR
+        ========================================================= */
+
+            .navbar {
+                position: relative;
+                z-index: 10;
+
+                width: 100%;
+
+                height: 88px;
+
+                padding: 0 6vw;
+
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+
+            .brand {
+                display: flex;
+                align-items: center;
+                gap: 13px;
+            }
+
+            .brand-logo {
+                width: 44px;
+                height: 44px;
+
+                object-fit: contain;
+            }
+
+            .brand-name {
+                font-size: 21px;
+                font-weight: 800;
+                letter-spacing: -0.5px;
+            }
+
+            .brand-name span {
+                color: #ff681f;
+            }
+
+            .nav-status {
+                display: flex;
+                align-items: center;
+                gap: 9px;
+
+                padding: 9px 14px;
+
+                border: 1px solid #ececec;
+                border-radius: 50px;
+
+                background: rgba(255, 255, 255, 0.7);
+
+                font-size: 11px;
+                font-weight: 700;
+
+                letter-spacing: 1px;
+                text-transform: uppercase;
+
+                color: #777;
+            }
+
+            .status-dot {
+                width: 7px;
+                height: 7px;
+
+                border-radius: 50%;
+
+                background: #20b26b;
+
+                box-shadow: 0 0 0 4px rgba(32, 178, 107, 0.1);
+            }
+
+            /* =========================================================
+           HERO
+        ========================================================= */
+
+            .hero {
+                position: relative;
+                z-index: 5;
+
+                width: 88vw;
+                max-width: 1400px;
+
+                height: calc(100vh - 88px);
+
+                margin: 0 auto;
+
+                display: grid;
+                grid-template-columns: 1.05fr 0.95fr;
+
+                align-items: center;
+
+                gap: 40px;
+            }
+
+            /* =========================================================
+           LEFT CONTENT
+        ========================================================= */
+
+            .hero-content {
+                max-width: 700px;
+            }
+
+            .eyebrow {
+                display: inline-flex;
+                align-items: center;
+                gap: 9px;
+
+                margin-bottom: 22px;
+
+                padding: 8px 13px;
+
+                border-radius: 6px;
+
+                background: #fff0e8;
+
+                color: #e85514;
+
+                font-size: 11px;
+                font-weight: 800;
+
+                letter-spacing: 1.2px;
+                text-transform: uppercase;
+            }
+
+            .eyebrow-line {
+                width: 18px;
+                height: 2px;
+
+                background: #ff681f;
+            }
+
+            h1 {
+                font-size: clamp(58px, 7vw, 90px);
+
+                line-height: 1;
+
+                letter-spacing: -3px;
+
+                font-weight: 700;
+
+                margin-bottom: 30px;
+            }
+
+            h1 .orange {
+                color: #ff681f;
+            }
+
+            .hero-description {
+                max-width: 610px;
+
+                color: #656565;
+
+                font-size: clamp(15px, 1.25vw, 18px);
+
+                line-height: 1.65;
+
+                margin-bottom: 34px;
+            }
+
+            /* =========================================================
+           BUTTONS
+        ========================================================= */
+
+            .actions {
+                display: flex;
+                align-items: center;
+                gap: 13px;
+
+                flex-wrap: wrap;
+            }
+
+            .button {
+                height: 55px;
+
+                padding: 0 22px;
+
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                gap: 11px;
+
+                border-radius: 9px;
+
+                font-size: 1.2rem;
+                font-weight: 750;
+
+                transition:
+                    transform 0.2s ease,
+                    box-shadow 0.2s ease,
+                    background 0.2s ease;
+            }
+
+            .button:hover {
+                transform: translateY(-3px);
+            }
+
+            .button-primary {
+                color: white;
+
+                background: #ff681f;
+
+                box-shadow: 0 12px 28px rgba(255, 104, 31, 0.23);
+            }
+
+            .button-primary:hover {
+                background: #e95610;
+
+                box-shadow: 0 16px 35px rgba(255, 104, 31, 0.3);
+            }
+
+            .button-secondary {
+                color: #202020;
+
+                background: white;
+
+                border: 1px solid #dedede;
+            }
+
+            .button-secondary:hover {
+                border-color: #ffb38d;
+
+                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.07);
+            }
+
+            .button-icon {
+                width: 20px;
+                height: 20px;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                font-size: 17px;
+            }
+
+            /* =========================================================
+           META
+        ========================================================= */
+
+            .meta {
+                display: flex;
+                align-items: center;
+
+                gap: 30px;
+
+                margin-top: 38px;
+            }
+
+            .meta-item {
+                display: flex;
+                flex-direction: column;
+                gap: 4px;
+            }
+
+            .meta-label {
+                font-size: 9px;
+
+                letter-spacing: 1.2px;
+
+                text-transform: uppercase;
+
+                color: #999;
+
+                font-weight: 700;
+            }
+
+            .meta-value {
+                font-size: 13px;
+
+                font-weight: 750;
+
+                color: #333;
+            }
+
+            .meta-divider {
+                width: 1px;
+                height: 30px;
+
+                background: #dedede;
+            }
+
+            /* =========================================================
+           RIGHT VISUAL
+        ========================================================= */
+
+            .visual {
+                position: relative;
+
+                height: 100%;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .visual-wrapper {
+                position: relative;
+
+                width: min(480px, 38vw);
+                aspect-ratio: 1;
+            }
+
+            /* Central AeroLink Node */
+
+            .node {
+                position: absolute;
+
+                left: 50%;
+                top: 50%;
+
+                transform: translate(-50%, -50%);
+
+                width: 190px;
+                height: 190px;
+
+                border-radius: 38px;
+
+                background: white;
+
+                border: 1px solid rgba(255, 104, 31, 0.2);
+
+                box-shadow:
+                    0 35px 70px rgba(0, 0, 0, 0.11),
+                    0 0 0 14px rgba(255, 104, 31, 0.045);
+
+                display: flex;
+                flex-direction: column;
+
+                align-items: center;
+                justify-content: center;
+
+                z-index: 5;
+            }
+
+            .node-logo {
+                width: 82px;
+                height: 82px;
+
+                object-fit: contain;
+
+                margin-bottom: 12px;
+            }
+
+            .node-name {
+                font-size: 20px;
+                font-weight: 850;
+                letter-spacing: -0.5px;
+            }
+
+            .node-subtitle {
+                margin-top: 4px;
+
+                color: #999;
+
+                font-size: 10px;
+
+                text-transform: uppercase;
+
+                letter-spacing: 1px;
+                font-weight: 700;
+            }
+
+            /* Network lines */
+
+            .connection {
+                position: absolute;
+
+                height: 1px;
+
+                background: linear-gradient(
+                    90deg,
+                    transparent,
+                    rgba(255, 104, 31, 0.45),
+                    transparent
+                );
+
+                transform-origin: left center;
+
+                z-index: 1;
+            }
+
+            .connection.c1 {
+                width: 180px;
+
+                left: 50%;
+                top: 50%;
+
+                transform: rotate(-145deg);
+            }
+
+            .connection.c2 {
+                width: 180px;
+
+                left: 50%;
+                top: 50%;
+
+                transform: rotate(-35deg);
+            }
+
+            .connection.c3 {
+                width: 180px;
+
+                left: 50%;
+                top: 50%;
+
+                transform: rotate(145deg);
+            }
+
+            .connection.c4 {
+                width: 180px;
+
+                left: 50%;
+                top: 50%;
+
+                transform: rotate(35deg);
+            }
+
+            /* Network nodes */
+
+            .network-node {
+                position: absolute;
+
+                width: 54px;
+                height: 54px;
+
+                border-radius: 16px;
+
+                background: white;
+
+                border: 1px solid #ededed;
+
+                box-shadow: 0 14px 35px rgba(0, 0, 0, 0.08);
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                z-index: 3;
+            }
+
+            .network-node::after {
+                content: "";
+
+                width: 8px;
+                height: 8px;
+
+                border-radius: 50%;
+
+                background: #ff681f;
+
+                box-shadow: 0 0 0 6px rgba(255, 104, 31, 0.1);
+            }
+
+            .network-node.n1 {
+                left: 2%;
+                top: 13%;
+            }
+
+            .network-node.n2 {
+                right: 2%;
+                top: 13%;
+            }
+
+            .network-node.n3 {
+                left: 2%;
+                bottom: 13%;
+            }
+
+            .network-node.n4 {
+                right: 2%;
+                bottom: 13%;
+            }
+
+            /* Signal rings */
+
+            .signal-ring {
+                position: absolute;
+
+                left: 50%;
+                top: 50%;
+
+                transform: translate(-50%, -50%);
+
+                border-radius: 50%;
+
+                border: 1px dashed rgba(255, 104, 31, 0.18);
+            }
+
+            .ring1 {
+                width: 280px;
+                height: 280px;
+            }
+
+            .ring2 {
+                width: 400px;
+                height: 400px;
+            }
+
+            .ring3 {
+                width: 500px;
+                height: 500px;
+            }
+
+            /* =========================================================
+           BOTTOM LABEL
+        ========================================================= */
+
+            .visual-label {
+                position: absolute;
+
+                right: -15px;
+                bottom: 1%;
+
+                padding: 11px 15px;
+
+                background: rgba(255, 255, 255, 0.92);
+
+                border: 1px solid #e7e7e7;
+
+                border-radius: 8px;
+
+                box-shadow: 0 12px 30px rgba(0, 0, 0, 0.07);
+
+                font-size: 10px;
+
+                font-weight: 800;
+
+                letter-spacing: 1px;
+
+                text-transform: uppercase;
+
+                color: #777;
+
+                z-index: 8;
+            }
+
+            .visual-label span {
+                color: #ff681f;
+            }
+
+            /* =========================================================
+           FOOTER
+        ========================================================= */
+
+            .footer {
+                position: absolute;
+
+                left: 6vw;
+                right: 6vw;
+                bottom: 20px;
+
+                z-index: 10;
+
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                font-size: 10px;
+
+                color: #999;
+
+                letter-spacing: 0.5px;
+            }
+
+            /* =========================================================
+           TABLET
+        ========================================================= */
+
+            @media (max-width: 950px) {
+                body {
+                    overflow: auto;
+                }
+
+                .page {
+                    min-height: 100vh;
+                    height: auto;
+
+                    overflow: hidden;
+                }
+
+                .hero {
+                    height: auto;
+                    min-height: calc(100vh - 88px);
+
+                    grid-template-columns: 1fr;
+
+                    padding: 50px 0 90px;
+
+                    text-align: center;
+                }
+
+                .hero-content {
+                    margin: auto;
+                }
+
+                .eyebrow {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+                .hero-description {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+                .actions {
+                    justify-content: center;
+                }
+
+                .meta {
+                    justify-content: center;
+                }
+
+                .visual {
+                    height: 480px;
+                }
+
+                .visual-wrapper {
+                    width: min(460px, 75vw);
+                }
+
+                .footer {
+                    position: relative;
+
+                    left: auto;
+                    right: auto;
+                    bottom: auto;
+
+                    width: 88vw;
+
+                    margin: -45px auto 20px;
+                }
+            }
+
+            /* =========================================================
+           MOBILE
+        ========================================================= */
+
+            @media (max-width: 600px) {
+                .navbar {
+                    height: 72px;
+
+                    padding: 0 6vw;
+                }
+
+                .brand-logo {
+                    width: 38px;
+                    height: 38px;
+                }
+
+                .brand-name {
+                    font-size: 18px;
+                }
+
+                .nav-status {
+                    padding: 7px 10px;
+
+                    font-size: 8px;
+                }
+
+                .hero {
+                    width: 88vw;
+
+                    padding-top: 35px;
+
+                    gap: 35px;
+                }
+
+                h1 {
+                    font-size: clamp(48px, 15vw, 65px);
+
+                    letter-spacing: -3.5px;
+
+                    line-height: 0.94;
+                }
+
+                .hero-description {
+                    font-size: 14px;
+
+                    line-height: 1.6;
+
+                    margin-bottom: 26px;
+                }
+
+                .actions {
+                    flex-direction: column;
+
+                    width: 100%;
+                }
+
+                .button {
+                    width: 100%;
+                    max-width: 330px;
+                }
+
+                .meta {
+                    gap: 16px;
+
+                    margin-top: 28px;
+                }
+
+                .meta-divider {
+                    height: 24px;
+                }
+
+                .meta-label {
+                    font-size: 8px;
+                }
+
+                .meta-value {
+                    font-size: 11px;
+                }
+
+                .visual {
+                    height: 350px;
+                }
+
+                .visual-wrapper {
+                    width: 330px;
+                    max-width: 90vw;
+                }
+
+                .node {
+                    width: 135px;
+                    height: 135px;
+
+                    border-radius: 27px;
+                }
+
+                .node-logo {
+                    width: 58px;
+                    height: 58px;
+
+                    margin-bottom: 6px;
+                }
+
+                .node-name {
+                    font-size: 16px;
+                }
+
+                .node-subtitle {
+                    font-size: 8px;
+                }
+
+                .network-node {
+                    width: 40px;
+                    height: 40px;
+
+                    border-radius: 12px;
+                }
+
+                .network-node::after {
+                    width: 6px;
+                    height: 6px;
+                }
+
+                .ring1 {
+                    width: 205px;
+                    height: 205px;
+                }
+
+                .ring2 {
+                    width: 290px;
+                    height: 290px;
+                }
+
+                .ring3 {
+                    width: 350px;
+                    height: 350px;
+                }
+
+                .connection.c1,
+                .connection.c2,
+                .connection.c3,
+                .connection.c4 {
+                    width: 125px;
+                }
+
+                .visual-label {
+                    right: 0;
+                    bottom: 0;
+
+                    font-size: 8px;
+
+                    padding: 8px 10px;
+                }
+
+                .footer {
+                    flex-direction: column;
+                    gap: 6px;
+
+                    margin-top: -10px;
+                }
+            }
+
+            /* =========================================================
+           SMALL PHONES
+        ========================================================= */
+
+            @media (max-width: 380px) {
+                .nav-status {
+                    display: none;
+                }
+
+                .hero {
+                    padding-top: 25px;
+                }
+
+                h1 {
+                    font-size: 47px;
+                }
+
+                .visual {
+                    height: 310px;
+                }
+
+                .visual-wrapper {
+                    width: 285px;
+                }
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="page">
+            <!-- Background -->
+            <div class="background-grid"></div>
+            <!--<div class="orange-glow"></div>-->
+
+            <div class="circle one"></div>
+            <div class="circle two"></div>
+
+            <!-- =====================================================
+         NAVIGATION
+    ====================================================== -->
+
+            <header class="navbar">
+                <a href="#" class="brand">
+                    <!--
+                Put your AeroLink logo beside this file
+                and name it: logo.png
+            -->
+                    <img src="logo.png" alt="AeroLink" class="brand-logo" />
+
+                    <div class="brand-name">Aero<span>Link</span></div>
+                </a>
+
+                <div class="nav-status">
+                    <span class="status-dot"></span>
+                    Prototype Live
+                </div>
+            </header>
+
+            <!-- =====================================================
+         HERO
+    ====================================================== -->
+
+            <main class="hero">
+                <!-- LEFT -->
+
+                <section class="hero-content">
+                    <div class="eyebrow">Disaster Resilient Communication</div>
+
+                    <h1>
+                        Stay<br />
+                        <span class="orange">Connected.</span>
+                    </h1>
+
+                    <p class="hero-description">
+                        AeroLink is a network-independent disaster communication
+                        system that enables citizens to send location-tagged SOS
+                        alerts even when cellular and Internet networks fail.
+                    </p>
+
+                    <!-- ACTIONS -->
+
+                    <div class="actions">
+                        <!-- =================================================
+                     REPLACE THIS WITH YOUR APK URL
+                ================================================== -->
+
+                        <a
+                            href="https://github.com/SwapnilAkhade824/AeroLink/releases/download/v1.0.0/AeroLink.apk"
+                            class="button button-primary"
+                            download
+                        >
+                            <!--<span class="button-icon">↓</span>-->
+
+                            Download Android APK
+                        </a>
+
+                        <!-- =================================================
+                     REPLACE THIS WITH YOUR BASECAMP URL
+                ================================================== -->
+
+                        <a
+                            href="https://aerolink-liard.vercel.app/login"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="button button-secondary"
+                        >
+                            <!--<span class="button-icon">↗</span>-->
+
+                            Open Basecamp Dashboard
+                        </a>
+                    </div>
+
+                    <!-- PROJECT DETAILS -->
+
+                    <div class="meta">
+                        <div class="meta-item">
+                            <span class="meta-label"> Platform </span>
+
+                            <span class="meta-value"> Android </span>
+                        </div>
+
+                        <div class="meta-divider"></div>
+
+                        <div class="meta-item">
+                            <span class="meta-label"> Hardware </span>
+
+                            <span class="meta-value"> AeroLink Node </span>
+                        </div>
+
+                        <div class="meta-divider"></div>
+
+                        <div class="meta-item">
+                            <span class="meta-label"> Version </span>
+
+                            <span class="meta-value"> Prototype 1.0 </span>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- =====================================================
+             RIGHT — NETWORK VISUAL
+        ====================================================== -->
+
+                <section class="visual">
+                    <div class="visual-wrapper">
+                        <!-- Signal rings -->
+
+                        <div class="signal-ring ring1"></div>
+                        <div class="signal-ring ring2"></div>
+                        <div class="signal-ring ring3"></div>
+
+                        <!-- Connections -->
+
+                        <div class="connection c1"></div>
+                        <div class="connection c2"></div>
+                        <div class="connection c3"></div>
+                        <div class="connection c4"></div>
+
+                        <!-- Network nodes -->
+
+                        <div class="network-node n1"></div>
+                        <div class="network-node n2"></div>
+                        <div class="network-node n3"></div>
+                        <div class="network-node n4"></div>
+
+                        <!-- Central AeroLink -->
+
+                        <div class="node">
+                            <img
+                                src="logo.png"
+                                alt="AeroLink Node"
+                                class="node-logo"
+                            />
+
+                            <div class="node-name">AeroLink</div>
+
+                            <div class="node-subtitle">Communication Node</div>
+                        </div>
+
+                        <!-- Label -->
+
+                        <div class="visual-label">
+                            <span>●</span>
+                            Mesh Network Active
+                        </div>
+                    </div>
+                </section>
+            </main>
+
+            <!-- =====================================================
+         FOOTER
+    ====================================================== -->
+
+            <footer class="footer">
+                <span> AeroLink • Emergency Communication System </span>
+
+                <span> Project Prototype • 2026 </span>
+            </footer>
+        </div>
+    </body>
+</html>

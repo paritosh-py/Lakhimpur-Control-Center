@@ -1,0 +1,170 @@
+.teams-page {
+  padding: 24px;
+  border: 1px solid #35424a;
+  background: #171f24;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.teams-page>h3 {
+  margin: 32px 0 16px;
+  font-size: 20px;
+}
+
+.team-forms {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  margin: 24px 0 32px;
+}
+
+.team-forms form {
+  min-width: 0;
+}
+
+.team-forms h3 {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.team-forms label,
+.team-note {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 16px 0;
+  color: #d6e2e8;
+}
+
+.team-forms input,
+.team-forms select,
+.team-forms textarea,
+.team-note textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  border: 1px solid #62747f;
+  background: #111a20;
+  color: #eef5f7;
+  border-radius: 6px;
+  font: inherit;
+  min-height: 42px;
+}
+
+.team-forms input::placeholder,
+.team-forms textarea::placeholder,
+.team-note textarea::placeholder {
+  color: #aabac5;
+}
+
+.team-forms fieldset {
+  border: 1px solid #45525c;
+  padding: 8px 16px;
+  margin: 16px 0;
+}
+
+.team-forms legend {
+  padding: 0 6px;
+}
+
+.team-forms .team-check {
+  flex-direction: row;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.team-check input {
+  width: 18px;
+  min-height: 18px;
+  accent-color: #65c5a1;
+}
+
+.team-task {
+  padding: 24px 0;
+  border-top: 1px solid #45525c;
+}
+
+.team-task h3 {
+  font-size: 19px !important;
+}
+
+.team-task p {
+  max-width: 80ch;
+  overflow-wrap: anywhere;
+}
+
+.team-success {
+  color: #c4f1d9 !important;
+  background: #223d32;
+  padding: 12px 16px;
+  border-radius: 6px;
+}
+
+.team-review {
+  color: #ffe1ad !important;
+  background: #3a3225;
+  padding: 12px 16px;
+}
+
+.task-history {
+  margin: 16px 0;
+}
+
+.task-history summary {
+  padding: 10px 0;
+  cursor: pointer;
+  color: #a9d9ef;
+}
+
+.task-history>div {
+  border-top: 1px solid #35424a;
+  padding: 12px 0;
+}
+
+.task-history small {
+  color: #b5c3cc;
+  line-height: 1.6;
+}
+
+.team-portal {
+  max-width: 920px !important;
+}
+
+.team-instructions {
+  font-size: 18px;
+}
+
+.team-portal .timeline-strip {
+  margin-top: 0;
+}
+
+.team-portal textarea {
+  resize: vertical;
+}
+
+.assignment-marker {
+  display: inline-block;
+  white-space: nowrap;
+  padding: 4px 7px;
+  color: #fff;
+  background: #253b48;
+  border: 1px solid #c4dbe4;
+  border-radius: 4px;
+  font-size: 11px;
+  pointer-events: none;
+}
+
+@media(max-width:760px) {
+  .team-forms {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px
+  }
+
+  .teams-page {
+    padding: 16px
+  }
+
+  .team-portal .exercise-buttons button {
+    flex: 1 1 140px
+  }
+}

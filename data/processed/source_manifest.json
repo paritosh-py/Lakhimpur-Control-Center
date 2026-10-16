@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-10-10T11:30:31.058720+00:00",
+  "sources": [
+    {
+      "file": "assam_flood_memorandum_2024.pdf",
+      "url": "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/menu/document/assam_flood_memorandum_2024_.pdf",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:20:14.619967+00:00",
+      "sha256": "43fc18b2446edfc96e12ae6a68c8e25a24d650c258f2715fb75100057db3c449",
+      "bytes": 5888971,
+      "content_type": "application/pdf",
+      "license_note": "Government of Assam flood memorandum 2024; published historical evidence, not road-level labels"
+    },
+    {
+      "file": "dem_n27_e93.tif",
+      "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N27_00_E093_00_DEM/Copernicus_DSM_COG_30_N27_00_E093_00_DEM.tif",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:10.214537+00:00",
+      "sha256": "4458995d5d0ed9042b8d37d6a83a70f6f1b2d417642bc4f6d3becfe8278d16c1",
+      "bytes": 5479084,
+      "content_type": "image/tiff",
+      "license_note": "Copernicus DEM GLO-90 2021; free public Copernicus DEM license; DSM includes surface objects"
+    },
+    {
+      "file": "dem_n27_e94.tif",
+      "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N27_00_E094_00_DEM/Copernicus_DSM_COG_30_N27_00_E094_00_DEM.tif",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:14.744296+00:00",
+      "sha256": "38faa6db7ca92de1fe7718bd10e50eea81b81bcd1ae167d8670b34319e9c12a2",
+      "bytes": 5195583,
+      "content_type": "image/tiff",
+      "license_note": "Copernicus DEM GLO-90 2021; free public Copernicus DEM license; DSM includes surface objects"
+    },
+    {
+      "file": "district_nwic_geojson.zip",
+      "url": "https://nwdp.nwic.gov.in/dataset/6c1af675-1dec-4927-882c-c1ba9d73f76b/resource/8d9aa2e9-9806-4f26-a4ac-48ba21e9b96d/download/district_nwic_geojson.zip",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:25:05.394493+00:00",
+      "sha256": "44c734cc72139f2447dcebfe2791cac862dc5ba265e158912d797cf3410d5c37",
+      "bytes": 71238839,
+      "content_type": "application/zip",
+      "license_note": "NWIC public District Boundary dataset; resource license Other (Open), updated May 2025; cite NWIC"
+    },
+    {
+      "file": "district_profile.html",
+      "url": "https://lakhimpur.assam.gov.in/about-us/district-profile",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:17.511991+00:00",
+      "sha256": "346d7329f3faec2f00e8b1a7c869d111aa0e710130bd29f1eb267bacda47a95d",
+      "bytes": 180888,
+      "content_type": "text/html; charset=UTF-8",
+      "license_note": "See provider terms"
+    },
+    {
+      "file": "district_search.json",
+      "url": "https://nominatim.openstreetmap.org/search?q=Lakhimpur+district%2C+Assam%2C+India&format=jsonv2&polygon_geojson=1&addressdetails=1&limit=5",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:01.031294+00:00",
+      "sha256": "18fcd588b8a26cc1ac588fb3b0c97b08d9f7c3a1bcfd26b097e8d8b53571f5a0",
+      "bytes": 11699,
+      "content_type": "application/json; charset=utf-8",
+      "license_note": "OpenStreetMap ODbL 1.0; attribution required"
+    },
+    {
+      "file": "geonames_IN.zip",
+      "url": "https://download.geonames.org/export/dump/IN.zip",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:21:54.567429+00:00",
+      "sha256": "b3280a2a99ba7c10e66824fb82eee1af9e8d7511688b096e5e04ace6ae098335",
+      "bytes": 15752346,
+      "content_type": "application/zip",
+      "license_note": "GeoNames CC BY 4.0; populated-place gazetteer; accuracy not warranted"
+    },
+    {
+      "file": "lakhimpur_ddmp_2025.pdf",
+      "url": "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/menu/document/lakhimpur_2025_26.pdf",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:15.966689+00:00",
+      "sha256": "67c08207c98a6f422dab7c826f92279755b3677c4d7061a0306d57eac27da3eb",
+      "bytes": 10706453,
+      "content_type": "application/pdf",
+      "license_note": "Government of Assam/DDMA published document; cite source, redistribution terms not independently verified"
+    },
+    {
+      "file": "north-eastern-zone.osm.pbf",
+      "url": "https://download.geofabrik.de/asia/india/north-eastern-zone-261009.osm.pbf",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:15:23.008911+00:00",
+      "sha256": "1b8f83c1f234561a3ce1a0bfb82c1232e25cfda1f7d4d1e5a0690b04c186d375",
+      "bytes": 109749798,
+      "content_type": "application/octet-stream",
+      "license_note": "OpenStreetMap ODbL 1.0, extract by Geofabrik dated 2026-10-09"
+    },
+    {
+      "file": "official_district_map.jpg",
+      "url": "https://lakhimpur.assam.gov.in/sites/default/files/styles/large/public/public_utility/LAKHIMPUR-Administrative_Map.jpg.jpeg",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:14:10.242211+00:00",
+      "sha256": "da843fc50d9b6f102f5873a9e482d8d275d92848265468803470c91d3dfaaada",
+      "bytes": 66860,
+      "content_type": "image/jpeg",
+      "license_note": "See provider terms"
+    },
+    {
+      "file": "weather_historical_2024.json",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=27.23&longitude=94.1&start_date=2024-06-25&end_date=2024-07-05&hourly=precipitation%2Crain%2Ctemperature_2m&models=era5&timezone=UTC",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:02.864683+00:00",
+      "sha256": "3f1d4b9127eb4cf1ed870156b85da2d36bfbfdf88442f91e625ed8f4853b4022",
+      "bytes": 9296,
+      "content_type": "application/json; charset=utf-8",
+      "license_note": "Open-Meteo CC BY 4.0 / ERA5 reanalysis; NOT an as-issued historical forecast"
+    },
+    {
+      "file": "weather_live.json",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=27.23&longitude=94.1&hourly=precipitation%2Crain%2Ctemperature_2m&past_days=7&forecast_days=3&timezone=UTC&models=gfs_seamless",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:12:01.410342+00:00",
+      "sha256": "a6e45512e478c7b5abc926118996c2dc55d48724efe8f5fd3589d032455dc571",
+      "bytes": 8485,
+      "content_type": "application/json; charset=utf-8",
+      "license_note": "Open-Meteo weather data CC BY 4.0; noncommercial API terms; model output, not station measurement"
+    },
+    {
+      "file": "weather_settlements_historical.json",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=27.31589%2C27.23517%2C27.36218%2C27.28333%2C27.37565%2C27.30466%2C27.18648%2C27.30209%2C27.19409%2C27.13529%2C27.16977%2C27.12377%2C27.1618%2C27.11878%2C27.03705%2C27.01718%2C27.01693&longitude=94.14915%2C94.10357%2C94.18316%2C94.05%2C94.0954%2C94.03132%2C94.09891%2C93.97124%2C94.00529%2C94.11639%2C94.0104%2C94.10988%2C93.99384%2C93.92959%2C93.96361%2C93.91673%2C93.91502&hourly=precipitation%2Crain%2Ctemperature_2m&timezone=UTC&models=era5&start_date=2024-06-25&end_date=2024-07-05",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:27:51.788478+00:00",
+      "sha256": "74adc22eb09a29fccb6740a997eea24a178fb6f63fbddfa5567c530823f13223",
+      "bytes": 158307,
+      "content_type": "application/json; charset=utf-8",
+      "license_note": "Open-Meteo CC BY 4.0 / ERA5; historical reanalysis, not as-issued forecasts"
+    },
+    {
+      "file": "weather_settlements_live.json",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=27.31589%2C27.23517%2C27.36218%2C27.28333%2C27.37565%2C27.30466%2C27.18648%2C27.30209%2C27.19409%2C27.13529%2C27.16977%2C27.12377%2C27.1618%2C27.11878%2C27.03705%2C27.01718%2C27.01693&longitude=94.14915%2C94.10357%2C94.18316%2C94.05%2C94.0954%2C94.03132%2C94.09891%2C93.97124%2C94.00529%2C94.11639%2C94.0104%2C94.10988%2C93.99384%2C93.92959%2C93.96361%2C93.91673%2C93.91502&hourly=precipitation%2Crain%2Ctemperature_2m&timezone=UTC&models=gfs_seamless&past_days=7&forecast_days=3",
+      "request_body": null,
+      "retrieved_at": "2026-10-10T10:27:51.083909+00:00",
+      "sha256": "5efff922365ad29f79af70812f200762460f880c963d176ac059cf90e425ca28",
+      "bytes": 144550,
+      "content_type": "application/json; charset=utf-8",
+      "license_note": "Open-Meteo CC BY 4.0, GFS seamless numerical model; grid locations may repeat"
+    }
+  ],
+  "derived_files": [
+    {
+      "file": "boundary.geojson",
+      "sha256": "25af328382d602640a93ab37d5a91f4894194d62f3a25bfbb120b53664b02da7"
+    },
+    {
+      "file": "geography_summary.json",
+      "sha256": "b03a800c684d101567946431ba3ee537d09b9b7991de97a0f73c3d9bde1ae2cf"
+    },
+    {
+      "file": "graph.json",
+      "sha256": "8c4a38ad4a5a777076a9c5e54d0218cf5184d5e940c493aeb27fb8fb8030f49d"
+    },
+    {
+      "file": "roads.geojson",
+      "sha256": "f76cf7843d4c098151cf37782b8dd4d9eeff2f68d14e53a541eae9c3131b2d24"
+    },
+    {
+      "file": "settlements.geojson",
+      "sha256": "afc67eb6473cf01fd18368954097f155518a17c687a868ce64ce79b16cd66022"
+    },
+    {
+      "file": "shelters.geojson",
+      "sha256": "25d2f0e970e7a87acdd95e2427dcd1d094ed031f14ea04f471f2e83be9d7ce0e"
+    },
+    {
+      "file": "waterways.geojson",
+      "sha256": "2b8edfa7ff271bd0acf0733299ce9b8ed37120e6d1ae99bac039b99e69d4383d"
+    },
+    {
+      "file": "weather_live.json",
+      "sha256": "ea064018150d50900f0c3c7026f6f6b8997d8032173fd4287dec83c79ef576a6"
+    },
+    {
+      "file": "weather_reanalysis_2024.json",
+      "sha256": "5be2c536e2a40c7651bda046a9de87f3447bd5b6152e35e84d74c4edc2e5c74c"
+    },
+    {
+      "file": "weather_settlements_historical.json",
+      "sha256": "4014d0f6c684fc36c217ae26f8d728d2b30af04c3ab396b32924aec9c50f66d7"
+    },
+    {
+      "file": "weather_settlements_live.json",
+      "sha256": "c199f2857338c51f1231c8ff4095690b7676e0975d22bc012b4b27245e38a682"
+    }
+  ]
+}

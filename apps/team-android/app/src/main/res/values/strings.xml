@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lakhimpur Team</string>
+    <string name="open_server">Open</string>
+    <string name="address_hint">http://laptop-wifi-ip:8001</string>
+    <string name="address_label">Command server address</string>
+    <string name="setup_instruction">Enter the command laptop’s Wi-Fi address. Both laptops and this phone must share Wi-Fi.</string>
+    <string name="external_blocked">External navigation blocked. Open a trusted command-server address above.</string>
+    <string name="connected">Connected to command server</string>
+    <string name="invalid_address">Enter an http:// or https:// command-server URL, including its port.</string>
+    <string name="connecting">Connecting…</string>
+    <string name="unavailable">Cannot load the command server. Check Wi-Fi, the laptop address and that the server is running. Tap Open to retry.</string>
+</resources>

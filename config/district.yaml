@@ -1,0 +1,19 @@
+district: Lakhimpur
+state: Assam
+country: India
+hazard: flood
+display_timezone: Asia/Kolkata
+target_road_segments: 800
+target_settlements: 16
+target_shelters: 7
+basecamp:
+  id: "basecamp-borimuri"
+  name: "Borimuri Basecamp"
+  plus_code: "748G+M62"
+  address: "Borimuri, North Lakhimpur, Assam 787032"
+  latitude: 27.2666
+  longitude: 94.1255
+  graph_node_id: "1698435895"
+# Actual connected selection has 800 physical segments.
+# NWIC/SOI boundary dtcode 295; study selection and provenance: data/processed/.
+

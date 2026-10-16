@@ -1,0 +1,214 @@
+@import "tailwindcss";
+
+/* ══════════════════════════════════════════════
+   AEROLINK BASECAMP — MINIMALIST DESIGN SYSTEM
+   #47E5BC · #81E4DA · #AECFDF · #9F9FAD · #93748A
+   ══════════════════════════════════════════════ */
+
+:root {
+  /* User Palette */
+  --c-white: #F6F6F5;
+  --c-orange: #F0946C;
+  --c-blue: #979CB7;
+  --c-purple: #78647C;
+  --c-dark: #4A3B44;
+
+  /* Accent Mappings (Retaining legacy variable names so components don't break) */
+  --mint: var(--c-orange);
+  --teal: var(--c-blue);
+  --frost: var(--c-purple);
+  --muted: #A8A8AE;
+  --plum: var(--c-dark);
+
+  /* Structure */
+  --bg: var(--c-white);
+  --surface: #FFFFFF;
+  --surface-2: #EAEAEA;
+  --surface-3: #E0E0E0;
+
+  --border: #E0E0E2;
+  --border-hover: #C5C5C8;
+
+  /* Typography */
+  --text: #111111;
+  --text-2: #333333;
+  --text-3: #666666;
+
+  /* Semantic */
+  --danger: #E5475A;
+  --warning: #F4A261;
+
+  --sidebar-w: 240px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+::selection { background: rgba(71,229,188,0.15); }
+
+/* ── Layout ── */
+.admin-layout { display: flex; min-height: 100vh; }
+
+.sidebar {
+  position: fixed;
+  top: 0; left: 0; bottom: 0;
+  width: var(--sidebar-w);
+  z-index: 50;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+}
+
+.main-content {
+  flex: 1;
+  margin-left: var(--sidebar-w);
+  padding: 32px 40px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Lucid Card ── */
+.lucid-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.lucid-card:hover {
+  border-color: var(--border-hover);
+}
+
+/* ── Bento Card ── */
+.bento-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px;
+}
+
+/* ── Sleek Button ── */
+.sleek-btn {
+  background: var(--surface-2);
+  color: var(--mint);
+  border: 1px solid var(--border);
+  padding: 9px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-family: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+
+.sleek-btn:hover:not(:disabled) {
+  background: var(--surface-3);
+  border-color: var(--mint);
+}
+
+.sleek-btn:disabled {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
+
+.sleek-btn-primary {
+  background: var(--mint);
+  color: var(--bg);
+  border-color: var(--mint);
+  font-weight: 700;
+}
+
+.sleek-btn-primary:hover:not(:disabled) {
+  opacity: 0.85;
+  background: var(--mint);
+  border-color: var(--mint);
+}
+
+.sleek-btn-ghost {
+  background: transparent;
+  border-color: transparent;
+  color: var(--text-2);
+}
+
+.sleek-btn-ghost:hover:not(:disabled) {
+  color: var(--mint);
+  background: transparent;
+  border-color: transparent;
+}
+
+/* ── Typography ── */
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: var(--text);
+  line-height: 1;
+  letter-spacing: -1.5px;
+}
+
+.stat-label {
+  color: var(--text-3);
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.bc-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+/* ── Status Dot ── */
+.status-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.status-dot-live { background: var(--mint); }
+.status-dot-warn { background: var(--warning); }
+.status-dot-danger { background: var(--danger); }
+
+.bc-input {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  outline: none;
+}
+.bc-input:focus { border-color: var(--mint); }
+.bc-input::placeholder { color: var(--text-3); }
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+.custom-scrollbar::-webkit-scrollbar { width: 3px; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+
+/* ── Utility ── */
+.glass-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}

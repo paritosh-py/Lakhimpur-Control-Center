@@ -1,0 +1,9 @@
+{
+  "message_id": "SOS-DEMO-001",
+  "incident_type": "trapped",
+  "people_affected": 3,
+  "latitude": 21.1458,
+  "longitude": 79.0882,
+  "user_severity": 5,
+  "short_text": "Unable to move"
+}

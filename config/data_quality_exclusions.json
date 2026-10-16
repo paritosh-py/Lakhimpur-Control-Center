@@ -1,0 +1,7 @@
+{
+  "geonames_ids": ["12524297"],
+  "reasons": {
+    "12524297": "Kimin: border locality with conflicting administrative context. Gazetteer labels it Assam/Lakhimpur, while Papum Pare's official directory lists Kimin under its administration. Excluded conservatively from the study settlements pending point-level verification; original downloaded data is retained."
+  },
+  "evidence_url": "https://papumpare.nic.in/about-district/whos-who/"
+}

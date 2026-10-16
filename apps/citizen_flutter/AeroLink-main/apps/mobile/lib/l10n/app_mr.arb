@@ -1,0 +1,112 @@
+{
+  "@@locale": "mr",
+
+  "appName": "एरोलिंक",
+
+  "home": "मुख्यपृष्ठ",
+  "sos": "एसओएस",
+  "more": "अधिक",
+
+  "latestAlert": "नवीनतम सूचना",
+  "weatherAndAlerts": "हवामान आणि सूचना",
+  "emergencyReadiness": "आपत्कालीन तयारी",
+  "emergencySOS": "आपत्कालीन SOS",
+
+  "liveLocation": "थेट स्थान",
+  "currentLocation": "सध्याचे स्थान",
+  "refresh": "रिफ्रेश करा",
+
+  "acquiring": "मिळवत आहे...",
+  "acquiringGpsLocation": "GPS स्थान मिळवत आहे...",
+  "updatedJustNow": "आत्ताच अद्यतनित केले",
+  "locationUnavailable": "स्थान उपलब्ध नाही",
+  "gps": "GPS",
+  "loadingWeather": "हवामान लोड होत आहे...",
+  "weatherUnavailable": "हवामानाची माहिती उपलब्ध नाही",
+
+  "internet": "इंटरनेट",
+  "aeroLinkDevice": "एरोलिंक डिव्हाइस",
+  "connected": "कनेक्ट केलेले",
+  "unavailable": "उपलब्ध नाही",
+  "searchingForDevice": "डिव्हाइस शोधत आहे",
+  "notConnected": "कनेक्ट केलेले नाही",
+
+  "ready": "तयार",
+  "offline": "ऑफलाइन",
+
+  "moreLabel": "अधिक",
+  "noActiveAlerts": "कोणतीही सक्रिय सूचना नाही",
+  "noEmergencyAlerts": "तुमच्या परिसरासाठी सध्या कोणतीही आपत्कालीन सूचना उपलब्ध नाही.",
+
+  "deviceInformation": "डिव्हाइस माहिती",
+  "capabilities": "क्षमता",
+  "connectDevice": "डिव्हाइस कनेक्ट करा",
+  "disconnectDevice": "डिव्हाइस डिस्कनेक्ट करा",
+
+  "language": "भाषा",
+  "helpAndSupport": "मदत आणि समर्थन",
+  "aboutAeroLink": "एरोलिंक बद्दल",
+  "location": "स्थान",
+"locationAvailable": "उपलब्ध",
+"locationUnavailable": "उपलब्ध नाही",
+
+"transmission": "प्रसारण",
+"transmissionReady": "तयार",
+"transmissionNotReady": "तयार नाही",
+"emergencyTransmissionInfo": "आपका नवीनतम स्थान, नाम और संपर्क विवरण आपातकालीन संदेश भेजने के लिए उपयोग किया जाएगा।",
+"peopleAffected": "प्रभावित लोक",
+"emergencyConditions": "आपत्कालीन परिस्थिती",
+"danger": "धोका",
+"trapped": "अडकलेले",
+"evacuate": "स्थलांतर करा",
+"medical": "वैद्यकीय मदत",
+ "additionalDetails": "अतिरिक्त तपशील",
+  "describeEmergency": "आपत्कालीन परिस्थितीचे वर्णन करा...",
+  "voice": "आवाज",
+  "youCanTypeOrUseVoiceInput": "तुम्ही टाइप करू शकता किंवा आवाजाद्वारे माहिती देऊ शकता",
+  "holdToSendSos": "SOS पाठवण्यासाठी दाबून ठेवा",
+
+  "more": "अधिक",
+
+  "profile": "प्रोफाइल",
+  "personalInformation": "वैयक्तिक माहिती",
+  "personalInformationSubtitle": "नाव, संपर्क तपशील आणि ओळख",
+
+  "emergency": "आपत्कालीन",
+  "emergencyContacts": "आपत्कालीन संपर्क",
+  "emergencyContactsSubtitle": "आपत्कालीन परिस्थितीत सूचित करावयाच्या व्यक्ती",
+  "emergencyPreferences": "आपत्कालीन प्राधान्ये",
+  "emergencyPreferencesSubtitle": "SOS वर्तन कॉन्फिगर करा",
+
+  "aeroLink": "एरोलिंक",
+  "aeroLinkDevice": "एरोलिंक डिव्हाइस",
+  "aeroLinkDeviceSubtitle": "तुमचे डिव्हाइस कनेक्ट आणि व्यवस्थापित करा",
+  "baseStation": "बेस स्टेशन",
+  "baseStationSubtitle": "बेस स्टेशन कनेक्शन कॉन्फिगर करा",
+
+  "preferences": "प्राधान्ये",
+  "notifications": "सूचना",
+  "notificationsSubtitle": "अलर्ट आणि आपत्कालीन सूचना",
+  "appearance": "देखावा",
+  "appearanceSubtitle": "थीम आणि डिस्प्ले प्राधान्ये",
+
+  "supportAndApp": "सहाय्य आणि अॅप",
+  "helpAndSupport": "मदत आणि सहाय्य",
+  "helpAndSupportSubtitle": "एरोलिंक वापरण्यासाठी मदत मिळवा",
+  "aboutAeroLink": "एरोलिंकबद्दल",
+  "aboutAeroLinkSubtitle": "अॅपची माहिती आणि आवृत्ती",
+  "tacticalMeshNetwork":"टॅक्टिकल मेश नेटवर्क","emergencyAlerts":"आपत्कालीन सूचना","alertsForCurrentLocation":"सध्याच्या स्थानाशी संबंधित सूचना","alertMonitoringInfo":"नवीन सूचना आल्यावर निरीक्षण आपोआप अपडेट होईल.",
+  "liveGps":"थेट GPS","locating":"स्थान शोधत आहे...","waitingForGps":"GPS सिग्नलची प्रतीक्षा","sosDataUnavailable":"SOS डेटा उपलब्ध नाही. नवीन SOS तयार करा.","voiceInputComingSoon":"व्हॉइस इनपुट लवकरच उपलब्ध होईल.","checkingEmergencyReadiness":"आपत्कालीन तयारी तपासत आहे...","holdToActivateTransmission":"आपत्कालीन प्रसारणासाठी दाबून ठेवा",
+  "emergencyDataPrepared":"आपत्कालीन डेटा तयार","sendingToDevice":"AeroLink डिव्हाइसकडे पाठवत आहे","waitingForDeviceConfirmation":"डिव्हाइसच्या पुष्टीची प्रतीक्षा","aeroLinkConfirmedSos":"AeroLink ने SOS पुष्टी केली","sosTransmissionNotConfirmed":"SOS प्रसारणाची पुष्टी झाली नाही.","retryTransmission":"प्रसारण पुन्हा करा","emergencyInformationReceived":"तुमची आपत्कालीन माहिती AeroLink डिव्हाइसला मिळाली.","sendAnotherSos":"दुसरा SOS पाठवा","preparingEmergencySos":"आपत्कालीन SOS तयार करत आहे","sendingEmergencySos":"आपत्कालीन SOS पाठवत आहे","waitingForConfirmation":"पुष्टीची प्रतीक्षा","sosConfirmed":"SOS पुष्टी झाली","transmissionFailed":"प्रसारण अयशस्वी","preparingEmergencyInfo":"आपत्कालीन माहिती प्रसारणासाठी तयार करत आहे.","sendingEmergencyInfo":"आपत्कालीन माहिती AeroLink डिव्हाइसकडे पाठवत आहे.","waitingForSosConfirmation":"AeroLink च्या SOS पुष्टीची प्रतीक्षा आहे.","deviceConfirmedReceipt":"AeroLink डिव्हाइसने SOS मिळाल्याची पुष्टी केली.","deviceReceiptNotConfirmed":"AeroLink डिव्हाइसला SOS मिळाल्याची पुष्टी झाली नाही.",
+  "fullName":"पूर्ण नाव","phoneNumber":"फोन नंबर","emailAddress":"ईमेल पत्ता","enterFullName":"पूर्ण नाव टाका","enterPhoneNumber":"फोन नंबर टाका","enterEmailAddress":"ईमेल पत्ता टाका","requiredNameAndPhone":"कृपया नाव आणि फोन नंबर टाका","personalInformationSaved":"वैयक्तिक माहिती जतन केली","failedToSelectImage":"प्रतिमा निवडता आली नाही: {error}","@failedToSelectImage":{"placeholders":{"error":{"type":"String"}}},"personalInfoEmergencyUse":"ही माहिती आपत्कालीन प्रसारणात समाविष्ट होऊ शकते.","saveChanges":"बदल जतन करा","saveInformation":"माहिती जतन करा","editInformation":"माहिती संपादित करा",
+  "emergencyContactsIntro":"आपत्कालीन सेवा आणि संपर्क सहज व्यवस्थापित करा.","emergencyServices":"आपत्कालीन सेवा","personalEmergencyContacts":"वैयक्तिक आपत्कालीन संपर्क","done":"पूर्ण","edit":"संपादित करा","contactsNotificationInfo":"हे संपर्क आपत्कालीन सूचनांसाठी वापरले जाऊ शकतात.","police":"पोलीस","emergencyAssistance":"आपत्कालीन मदत","ambulance":"रुग्णवाहिका","medicalEmergency":"वैद्यकीय आपत्काल","fireBrigade":"अग्निशमन दल","fireEmergency":"आगीची आपत्कालीन स्थिती",
+  "requiredContactFields":"कृपया नाव आणि फोन नंबर टाका","emergencyContact":"आपत्कालीन संपर्क","editEmergencyContact":"आपत्कालीन संपर्क संपादित करा","addEmergencyContact":"आपत्कालीन संपर्क जोडा","updateEmergencyContact":"हा संपर्क अपडेट करा","emergencyContactDescription":"आपत्कालात संपर्क करता येणारी व्यक्ती","relationship":"नाते","enterContactName":"संपर्काचे नाव टाका","relationshipHint":"पालक, मित्र, जोडीदार...","saveContact":"संपर्क जतन करा","addContactsBelow":"खाली आपत्कालीन संपर्क जोडा.","noPersonalContacts":"वैयक्तिक आपत्कालीन संपर्क जोडलेले नाहीत.","addContact":"संपर्क जोडा",
+  "emergencyPreferencesIntro":"आपत्कालात AeroLink चा प्रतिसाद आणि माहिती शेअर करण्याची पद्धत ठरवा.","emergencyActivation":"आपत्कालीन सक्रियकरण","holdToActivate":"सक्रिय करण्यासाठी दाबून ठेवा","preventsAccidentalSos":"चुकून SOS सक्रिय होणे टाळते","hold":"दाबून ठेवा","shareLiveLocation":"थेट स्थान शेअर करा","keepUpdatingLocation":"SOS दरम्यान स्थान अपडेट करा","shareEmergencyContacts":"आपत्कालीन संपर्क शेअर करा","shareContactsWithAuthorities":"Basecamp अधिकाऱ्यांसोबत संपर्क माहिती शेअर करा","safety":"सुरक्षा","confirmationBeforeSos":"SOS पूर्वी पुष्टी","askBeforeSos":"प्रसारण सुरू करण्यापूर्वी विचारा","loudEmergencyAlert":"मोठा आपत्कालीन अलर्ट","playAlertWhenSosStarts":"SOS सुरू झाल्यावर आवाज वाजवा",
+  "noDeviceFound":"AeroLink डिव्हाइस सापडले नाही. ते सुरू आणि जवळ असल्याची खात्री करा.","connectedToDevice":"{device} शी कनेक्ट झाले","@connectedToDevice":{"placeholders":{"device":{"type":"String"}}},"connectionFailed":"कनेक्शन अयशस्वी: {error}","@connectionFailed":{"placeholders":{"error":{"type":"String"}}},"deviceDisconnected":"AeroLink डिव्हाइस डिस्कनेक्ट झाले.","disconnectFailed":"डिस्कनेक्ट अयशस्वी: {error}","@disconnectFailed":{"placeholders":{"error":{"type":"String"}}},"deviceScreenIntro":"नेटवर्क नसताना आपत्कालीन संचारासाठी AeroLink डिव्हाइस कनेक्ट करा.","searchingNearbyDevices":"जवळची डिव्हाइस शोधत आहे...","connectedAndReady":"कनेक्ट आणि तयार","noDeviceConnected":"डिव्हाइस कनेक्ट नाही","available":"उपलब्ध","deviceId":"डिव्हाइस ID","firmware":"फर्मवेअर","battery":"बॅटरी","emergencyTransmission":"आपत्कालीन प्रसारण","transmitSosThroughAeroLink":"AeroLink द्वारे SOS पाठवा","locationRelay":"स्थान रिले","shareLocationDuringEmergencies":"आपत्कालात स्थान शेअर करा","offlineCommunication":"ऑफलाइन संचार","communicationWithoutInternet":"इंटरनेटशिवाय संचार",
+  "baseStationIntro":"जवळचे बेस स्टेशन अतिरिक्त संचार मार्ग देऊ शकतात.","nearestBaseStation":"जवळचे बेस स्टेशन","aeroLinkBaseStation":"AeroLink बेस स्टेशन","searchingStationDetails":"स्टेशन तपशील शोधत आहे","stationLocation":"स्टेशनचे स्थान","nearestStation":"जवळचे स्टेशन","searchingForLocation":"स्थान शोधत आहे","connectionStatus":"कनेक्शन स्थिती","searchForBaseStations":"बेस स्टेशन शोधा","baseStationStatus":"बेस स्टेशन स्थिती","stationConnectedReady":"कनेक्ट आणि प्रसारणासाठी तयार","stationDetectedNotConnected":"स्टेशन सापडले पण कनेक्ट नाही",
+  "helpCenter":"मदत केंद्र","contactSupport":"सहाय्याशी संपर्क","reportAnIssue":"समस्या नोंदवा","helpIntro":"AeroLink विषयी मदत मिळवा.","guidesAndFaq":"मार्गदर्शिका आणि वारंवार विचारलेले प्रश्न","getAssistance":"AeroLink साठी मदत मिळवा","reportIssueSubtitle":"आढळलेली समस्या सांगा","findAnswers":"उत्तरे शोधा आणि AeroLink वापरणे शिका.","howEmergencySosWorks":"आपत्कालीन SOS कसे काम करते?","howAddContacts":"आपत्कालीन संपर्क कसे जोडायचे?","howCommunicationWorks":"AeroLink संचार कसा चालतो?","howConnectDevice":"AeroLink डिव्हाइस कसे जोडायचे?","detailedHelpComingSoon":"तपशीलवार मदत येथे उपलब्ध होईल.","contactSupportIntro":"AeroLink सहाय्य टीमशी संपर्क साधा.","emailSupport":"ईमेल सहाय्य","sendUsMessage":"आम्हाला संदेश पाठवा","chatSupport":"चॅट सहाय्य","chatWithSupport":"सहाय्य टीमशी चॅट करा","reportIssueIntro":"AeroLink मधील समस्या आम्हाला सांगा.","describeIssue":"समस्येचे वर्णन","describeWhatHappened":"काय झाले ते सांगा...","submitReport":"अहवाल पाठवा",
+  "theme":"थीम","appearanceIntro":"AeroLink कसे दिसेल ते निवडा.","light":"हलकी","useBrightAppearance":"उजळ स्वरूप वापरा","dark":"गडद","reduceBrightness":"कमी प्रकाशात चमक कमी करा","systemDefault":"सिस्टम डीफॉल्ट","matchDeviceAppearance":"डिव्हाइसच्या स्वरूपाशी जुळवा","display":"डिस्प्ले","textSize":"मजकूर आकार","adjustTextSize":"वाचनीयतेसाठी आकार बदला","small":"लहान","defaultSize":"डीफॉल्ट","large":"मोठा","extraLarge":"खूप मोठा","textPreview":"AeroLink मध्ये मजकूर असा दिसेल.","appLanguage":"अॅपची भाषा","english":"इंग्रजी","hindi":"हिंदी","marathi":"मराठी","tamil":"तमिळ","telugu":"तेलुगू","appearanceFooter":"या सेटिंग्ज AeroLink इंटरफेसवर लागू होतात.",
+  "notificationsIntro":"AeroLink कोणते अलर्ट पाठवेल ते ठरवा.","sosUpdates":"SOS अपडेट","sosUpdatesSubtitle":"आपत्कालीन प्रसारणाची अपडेट","weatherAlerts":"हवामान सूचना","weatherAlertsSubtitle":"तीव्र हवामान आणि पर्यावरण चेतावण्या","nearbyAlerts":"जवळच्या सूचना","nearbyAlertsSubtitle":"परिसरातील महत्त्वाच्या आपत्कालीन घटना","communication":"संचार","connectionChanges":"कनेक्शन बदल","connectionChangesSubtitle":"इंटरनेट आणि संचार उपलब्धता","deviceUpdatesSubtitle":"डिव्हाइस कनेक्शन आणि बॅटरी अपडेट","stationUpdatesSubtitle":"स्टेशन आणि कनेक्शन अपडेट","alertPreferences":"अलर्ट प्राधान्ये","sound":"आवाज","soundSubtitle":"महत्त्वाच्या सूचनांसाठी आवाज वाजवा","vibration":"कंपन","vibrationSubtitle":"महत्त्वाच्या सूचनांसाठी कंपन करा","criticalAlertsInfo":"काही प्राधान्ये बंद असली तरी गंभीर अलर्ट दिसू शकतात.",
+  "emergencyCommunicationTagline":"गरजेच्या वेळी आपत्कालीन संचार","appVersion":"अॅप आवृत्ती","versionNumber":"आवृत्ती 1.0.0","projectInformation":"प्रकल्प माहिती","projectInformationSubtitle":"AeroLink आणि ध्येयाबद्दल जाणून घ्या","privacyAndTerms":"गोपनीयता आणि अटी","privacyTermsSubtitle":"गोपनीयता धोरण आणि वापराच्या अटी","builtForReliability":"विश्वसनीय आपत्कालीन संचारासाठी निर्मित","ourMission":"आमचे ध्येय","howAeroLinkWorks":"AeroLink कसे काम करते","emergencyFirst":"आपत्काल प्रथम","aboutProjectBody":"AeroLink ही इंटरनेट नसतानाही चालणारी विश्वसनीय आपत्कालीन संचार प्रणाली आहे.","missionBody":"महत्त्वाची ओळख, संपर्क आणि आपत्कालीन माहिती पाठवण्यास मदत करणे हे आमचे ध्येय आहे.","howItWorksBody":"AeroLink अॅप, डिव्हाइस आणि बेस स्टेशनद्वारे पर्यायी मार्गाने आपत्कालीन माहिती पाठवते.","emergencyFirstBody":"सामान्य संचार बंद असतानाही महत्त्वाची आपत्कालीन माहिती उपलब्ध आणि पाठवता येणे हे AeroLink चे तत्त्व आहे.","privacy":"गोपनीयता","privacyBody":"AeroLink तुमची माहिती आपत्कालीन सुविधांसाठी वापरते. ती सुरक्षित ठेवून केवळ अपेक्षित कामासाठी वापरावी.","termsOfUse":"वापराच्या अटी","termsBody":"AeroLink ही आपत्कालीन संचार सहाय्य प्रणाली आहे; ती अधिकृत आपत्कालीन सेवांचा हमीदार पर्याय नाही.","dataAndSecurity":"डेटा आणि सुरक्षा","dataSecurityBody":"साठवलेल्या आणि पाठवलेल्या माहितीच्या संरक्षणासाठी योग्य सुरक्षा उपाय वापरले पाहिजेत. धोरणे बदलू शकतात.","lastUpdated":"शेवटचे अपडेट: सप्टेंबर 2026"
+
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AeroLink SOS",
+  "type": "object",
+  "properties": {
+    "message_id": {"type": "string"},
+    "incident_type": {"type": "string"},
+    "people_affected": {"type": "integer", "minimum": 1},
+    "latitude": {"type": "number"},
+    "longitude": {"type": "number"},
+    "user_severity": {"type": "integer", "minimum": 1, "maximum": 5},
+    "short_text": {"type": "string", "maxLength": 32}
+  },
+  "required": ["message_id","incident_type","people_affected","latitude","longitude","user_severity"]
+}

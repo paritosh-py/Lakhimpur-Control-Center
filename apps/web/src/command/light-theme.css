@@ -1,0 +1,89 @@
+﻿/* Admin-only light surfaces; preserve Team and Citizen themes. */
+.live-app { --border-subtle:#dedbd1; --border-medium:#b8b6aa; --text-tertiary:#626b65; --color-brand:#995008; --color-success:#226747; --color-warning:#995008; --color-danger:#b52d3a; --color-hydro:#245475; font-size:16px; scrollbar-color:#a4a89d #f5f3ed; caret-color:#226747; }
+body:has(.live-app) { background:#f5f3ed; color-scheme:light; }
+.live-app ::selection { background:#dcebdd; color:#183c2b; }
+.live-app ::-webkit-scrollbar-thumb { background:#a4a89d; }
+.live-app ::placeholder { color:#626b65; opacity:1; }
+.live-app .live-header { border-top:3px solid #c57b35; }
+.live-app .live-feed-status strong::before, .live-app .status-glow-dot { box-shadow:none; }
+.live-app .sidebar-logo-mark { background:#edf3ed; color:#226747; border-color:#b4c8b8; box-shadow:none; }
+.live-app .pages-toggle-btn, .live-app .pages-toggle-btn:hover { box-shadow:none; }
+.live-app .command-sidebar { box-shadow:16px 0 36px rgba(31,39,29,.14); }
+.live-app .sidebar-backdrop { background:rgba(31,39,29,.35); }
+.live-app .live-nav button[aria-current], .live-app .sidebar-nav-item.active { background:#edf3ed !important; color:#226747 !important; border-color:#b4c8b8 !important; }
+.live-app .live-map .leaflet-control-zoom, .live-app .live-map .leaflet-tooltip { box-shadow:0 3px 10px rgba(31,39,29,.12); }
+.live-app .live-map .leaflet-tooltip {
+  /* Override the legacy global Leaflet dark theme, which uses !important. */
+  background:#fff !important;
+  color:#252b2a !important;
+  border:1px solid #c5c8bd !important;
+  font-size:14px !important;
+  box-shadow:0 3px 10px rgba(31,39,29,.12) !important;
+}
+.live-app .live-map .leaflet-tooltip-left::before { border-left-color:#c5c8bd; }
+.live-app .live-map .leaflet-tooltip-right::before { border-right-color:#c5c8bd; }
+.live-app .live-map .leaflet-tooltip-top::before { border-top-color:#c5c8bd; }
+.live-app .live-map .leaflet-tooltip-bottom::before { border-bottom-color:#c5c8bd; }
+.live-app .live-map .leaflet-popup-content-wrapper, .live-app .live-map .leaflet-popup-tip { background:#fff; color:#252b2a; }
+.live-app .live-map .leaflet-popup-content { font-size:14px; line-height:1.55; }
+.live-app button, .live-app input, .live-app select, .live-app textarea { font-size:15px; }
+.live-app :is(.teams-page,.report-card,.kpi-card,.reports-filter-bar,.history-item) { background:#fff; border-color:#dedbd1; color:#252b2a; }
+.live-app :is(.team-forms label,.team-note,.reports-page,.report-meta-item span,.gemini-summary-text,.reports-empty h3) { color:#252b2a; }
+.live-app :is(.team-forms input,.team-forms select,.team-forms textarea,.team-note textarea,.reports-search-box input,.reports-filter-selects select,.report-status-control select) { background:#fff; color:#252b2a; border-color:#a2aa9e; font-size:15px; }
+.live-app :is(.team-forms input,.team-forms textarea,.team-note textarea)::placeholder { color:#626b65; }
+.live-app :is(.team-forms fieldset,.team-task,.task-history > div,.report-meta-grid,.device-history-collapse) { border-color:#dedbd1; }
+.live-app .team-check input { accent-color:#226747; }
+.live-app .team-success { color:#226747 !important; background:#eaf3ec; }
+.live-app .team-review { color:#754715 !important; background:#fff3e3; }
+.live-app .task-history summary { color:#245475; }
+.live-app :is(.task-history small,.report-timestamp,.report-meta-item strong,.history-item-top,.reports-empty,.kpi-label) { color:#59665e; font-size:14px; }
+.live-app .kpi-value { color:#252b2a; }
+.live-app :is(.kpi-card.kpi-critical .kpi-value,.road-alert-tag) { color:#b52d3a !important; }
+.live-app .kpi-card.kpi-high .kpi-value { color:#995008; }
+.live-app :is(.kpi-card.kpi-roads .kpi-value,.kpi-card.kpi-active .kpi-value) { color:#245475; }
+.live-app .kpi-card.kpi-closed .kpi-value { color:#226747; }
+.live-app .kpi-card.kpi-repeat .kpi-value { color:#8c2945; }
+.live-app .report-card:hover { border-color:#b8b6aa; }
+.live-app .report-card.urgency-critical { background:#fffafa; border-left-color:#b52d3a; }
+.live-app .report-card.urgency-high { background:#fffcf7; border-left-color:#b47a36; }
+.live-app .report-card.status-closed { background:#f3f7f2; border-color:#b4c8b8; opacity:1; }
+.live-app :is(.urgency-badge,.closed-status-badge,.ai-score-pill,.incident-type-chip,.repeat-device-alert,.need-tag) { font-size:13px; }
+.live-app .urgency-badge.critical { color:#a92c36; background:#fcebed; border-color:#d59ba2; box-shadow:none; }
+.live-app .urgency-badge.high { color:#85490c; background:#fff3e3; border-color:#c6a36c; }
+.live-app .urgency-badge.medium { color:#245475; background:#eaf1f6; border-color:#a4bdcd; }
+.live-app .urgency-badge.low { color:#52605c; background:#f0f2ed; border-color:#bcc4b8; }
+.live-app :is(.closed-status-badge,.incident-type-chip) { background:#eaf3ec; color:#226747; border-color:#b4c8b8; }
+.live-app .ai-score-pill { background:#f2efe6; color:#5f5137; border-color:#c8bd9f; }
+.live-app .repeat-device-alert { background:#f9e9ed; color:#8c2945; border-color:#d3a5b1; }
+.live-app .report-gemini-box { background:#f8f6f1; border-color:#dedbd1; }
+.live-app .gemini-box-header { color:#52605c; font-size:14px; }
+.live-app .gemini-summary-text { font-size:16px; }
+.live-app .gemini-action-rec { color:#754715; background:#fff3e3; border-color:#d8bf9c; font-size:14px; }
+.live-app .need-tag { background:#eaf1f6; color:#245475; border-color:#a4bdcd; }
+.live-app .report-meta-grid,.live-app .report-meta-item span { font-size:15px; }
+.live-app .report-raw-message { color:#34413b; background:#f5f3ed; border-color:#b8b6aa; font-size:15px; }
+.live-app :is(.btn-locate,.btn-dispatch,.btn-close-report,.btn-reopen-report) { font-size:14px !important; }
+.live-app .btn-locate { background:#eaf1f6 !important; border-color:#a4bdcd !important; color:#245475 !important; }
+.live-app .btn-locate:hover { background:#dce9f2 !important; }
+.live-app :is(.btn-dispatch,.btn-close-report) { background:#eaf3ec !important; border-color:#b4c8b8 !important; color:#226747 !important; }
+.live-app :is(.btn-dispatch,.btn-close-report):hover { background:#d8e9da !important; }
+.live-app .btn-reopen-report { background:#f2efe6 !important; border-color:#c8bd9f !important; color:#5f5137 !important; }
+.live-app .btn-reopen-report:hover { background:#e8e1d2 !important; }
+.live-app .history-item { font-size:14px; }
+.live-app .assessment-severity { color:#52605c; }
+.live-app :is(.severity-critical,.severity-high) { color:#a92c36; }
+.live-app :is(.severity-moderate,.severity-watch) { color:#85490c; }
+.live-app :is(.severity-low,.severity-normal) { color:#226747; }
+.live-app .reports-page { background:#fff; border-color:#dedbd1; }
+.live-app .reports-header-row h2 { color:#252b2a; }
+.live-app .reports-header-row p { color:#52605c; }
+.live-app .kpi-card .kpi-value { color:#252b2a; }
+.live-app .kpi-card .kpi-label { font-size:14px; color:#59665e; }
+.live-app .header-branding h1 {
+  font-size:clamp(26px, 2.5vw, 36px);
+  font-weight:700;
+  line-height:1.2;
+  letter-spacing:-.025em;
+  color:#252b2a;
+}
+.live-app .header-branding p { margin-top:6px; font-size:14px; }

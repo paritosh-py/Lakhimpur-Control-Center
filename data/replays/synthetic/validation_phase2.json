@@ -1,0 +1,16 @@
+{
+  "validated_at": "2026-10-10T11:30:31.746670+00:00",
+  "phase": 2,
+  "status": "PASS",
+  "events_count": 40,
+  "splits": {
+    "train": 24,
+    "calibration": 6,
+    "held_out": 10
+  },
+  "total_observable_records": 41346,
+  "total_truth_records": 32015,
+  "truth_leakage_detected": 0,
+  "reproducibility": "deterministic_seed_based",
+  "provenance_check": "all_records_labeled_simulated_or_replay"
+}

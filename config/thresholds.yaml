@@ -1,0 +1,5 @@
+# Unapproved operational thresholds are deliberately not given fake defaults.
+closure_reopening_policy: pending_confirmation
+false_alert_window_minutes: null
+trust_distance_meters: null
+report_stale_after_minutes: null

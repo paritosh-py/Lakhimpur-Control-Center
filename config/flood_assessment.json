@@ -1,0 +1,13 @@
+{
+  "version": "prototype-flood-v1",
+  "validated": false,
+  "description": "Uncalibrated screening rules for demonstration, not an official flood forecast or probability.",
+  "rain_reference_mm": {"1": 20, "3": 45, "6": 75, "24": 150, "72": 300},
+  "severity_score": {"watch": 25, "high": 55, "critical": 85},
+  "wet_hour_mm": 0.1,
+  "stale_hours": 2,
+  "report_half_life_hours": 3,
+  "report_expiry_hours": 24,
+  "near_river_m": 1000,
+  "flat_slope_degrees": 2
+}

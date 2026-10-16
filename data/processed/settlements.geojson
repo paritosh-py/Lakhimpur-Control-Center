@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.14915,
+          27.31589
+        ]
+      },
+      "properties": {
+        "id": "geonames-12523887",
+        "name": "Kadam",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-230483864-0-5",
+        "graph_node_id": "12076628343",
+        "distance_to_road_m": 231.9,
+        "distance_to_graph_node_m": 588.9,
+        "access_verified": false,
+        "elevation_m": 95.36,
+        "slope_degrees": 0.686,
+        "distance_to_river_m": 3398.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10357,
+          27.23517
+        ]
+      },
+      "properties": {
+        "id": "geonames-1261181",
+        "name": "North Lakhimpur",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1092487157-0-1",
+        "graph_node_id": "4806827287",
+        "distance_to_road_m": 1.9,
+        "distance_to_graph_node_m": 21.9,
+        "access_verified": false,
+        "elevation_m": 98.06,
+        "slope_degrees": 0.815,
+        "distance_to_river_m": 5050.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.18316,
+          27.36218
+        ]
+      },
+      "properties": {
+        "id": "geonames-1271818",
+        "name": "Gāgaldubi",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-224371985-0-2",
+        "graph_node_id": "2389850255",
+        "distance_to_road_m": 74.6,
+        "distance_to_graph_node_m": 74.6,
+        "access_verified": false,
+        "elevation_m": 100.46,
+        "slope_degrees": 0.406,
+        "distance_to_river_m": 418.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.05,
+          27.28333
+        ]
+      },
+      "properties": {
+        "id": "geonames-1272576",
+        "name": "Diju",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-230483890-9-12",
+        "graph_node_id": "2389850006",
+        "distance_to_road_m": 739.9,
+        "distance_to_graph_node_m": 778.9,
+        "access_verified": false,
+        "elevation_m": 102.1,
+        "slope_degrees": 0.2,
+        "distance_to_river_m": 234.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0954,
+          27.37565
+        ]
+      },
+      "properties": {
+        "id": "geonames-1256404",
+        "name": "Siājuli",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-224371988-64-86",
+        "graph_node_id": "2331866810",
+        "distance_to_road_m": 8.2,
+        "distance_to_graph_node_m": 109.4,
+        "access_verified": false,
+        "elevation_m": 134.59,
+        "slope_degrees": 1.313,
+        "distance_to_river_m": 201.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.03132,
+          27.30466
+        ]
+      },
+      "properties": {
+        "id": "geonames-1269537",
+        "name": "Jaihing",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-230483856-0-11",
+        "graph_node_id": "2389850125",
+        "distance_to_road_m": 54.1,
+        "distance_to_graph_node_m": 155.8,
+        "access_verified": false,
+        "elevation_m": 113.56,
+        "slope_degrees": 0.238,
+        "distance_to_river_m": 719.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.09891,
+          27.18648
+        ]
+      },
+      "properties": {
+        "id": "geonames-1253881",
+        "name": "Ulubāri",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1193990939-4-23",
+        "graph_node_id": "5775285763",
+        "distance_to_road_m": 47.1,
+        "distance_to_graph_node_m": 325.2,
+        "access_verified": false,
+        "elevation_m": 89.63,
+        "slope_degrees": 0.844,
+        "distance_to_river_m": 2991.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00529,
+          27.19409
+        ]
+      },
+      "properties": {
+        "id": "geonames-8431965",
+        "name": "Khuiārpom",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1501457784-0-8",
+        "graph_node_id": "13745859948",
+        "distance_to_road_m": 664.2,
+        "distance_to_graph_node_m": 664.2,
+        "access_verified": false,
+        "elevation_m": 97.22,
+        "slope_degrees": 0.719,
+        "distance_to_river_m": 2508.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11639,
+          27.13529
+        ]
+      },
+      "properties": {
+        "id": "geonames-1278042",
+        "name": "Bachāgaon",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1193990939-35-41",
+        "graph_node_id": "245756420",
+        "distance_to_road_m": 577.3,
+        "distance_to_graph_node_m": 758.3,
+        "access_verified": false,
+        "elevation_m": 92.4,
+        "slope_degrees": 0.632,
+        "distance_to_river_m": 3014.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0104,
+          27.16977
+        ]
+      },
+      "properties": {
+        "id": "geonames-12524294",
+        "name": "Naobaicha",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-238668521-3-22",
+        "graph_node_id": "245756549",
+        "distance_to_road_m": 395.5,
+        "distance_to_graph_node_m": 672.2,
+        "access_verified": false,
+        "elevation_m": 96.49,
+        "slope_degrees": 1.436,
+        "distance_to_river_m": 1131.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10988,
+          27.12377
+        ]
+      },
+      "properties": {
+        "id": "geonames-8432293",
+        "name": "Pahumarāgāon",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1193990939-35-41",
+        "graph_node_id": "10308107365",
+        "distance_to_road_m": 199.2,
+        "distance_to_graph_node_m": 845.0,
+        "access_verified": false,
+        "elevation_m": 85.9,
+        "slope_degrees": 0.209,
+        "distance_to_river_m": 2111.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99384,
+          27.1618
+        ]
+      },
+      "properties": {
+        "id": "geonames-1272266",
+        "name": "Dulāhātgaon",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-155248829-99-101",
+        "graph_node_id": "2396433755",
+        "distance_to_road_m": 93.4,
+        "distance_to_graph_node_m": 394.0,
+        "access_verified": false,
+        "elevation_m": 94.37,
+        "slope_degrees": 0.728,
+        "distance_to_river_m": 636.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.92959,
+          27.11878
+        ]
+      },
+      "properties": {
+        "id": "geonames-1261412",
+        "name": "Nij Lāluk",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1126669115-0-5",
+        "graph_node_id": "2389849526",
+        "distance_to_road_m": 19.0,
+        "distance_to_graph_node_m": 19.2,
+        "access_verified": false,
+        "elevation_m": 95.18,
+        "slope_degrees": 0.638,
+        "distance_to_river_m": 4949.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.96361,
+          27.03705
+        ]
+      },
+      "properties": {
+        "id": "geonames-8985791",
+        "name": "Chinatoli",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-230483876-44-69",
+        "graph_node_id": "10301689853",
+        "distance_to_road_m": 235.0,
+        "distance_to_graph_node_m": 238.5,
+        "access_verified": false,
+        "elevation_m": 85.86,
+        "slope_degrees": 0.155,
+        "distance_to_river_m": 3281.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.91673,
+          27.01718
+        ]
+      },
+      "properties": {
+        "id": "geonames-1275713",
+        "name": "Bihpuriāgaon",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-01-06",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-69412780-28-29",
+        "graph_node_id": "10303780064",
+        "distance_to_road_m": 7.3,
+        "distance_to_graph_node_m": 8.1,
+        "access_verified": false,
+        "elevation_m": 89.8,
+        "slope_degrees": 0.387,
+        "distance_to_river_m": 873.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.91502,
+          27.01693
+        ]
+      },
+      "properties": {
+        "id": "geonames-8985727",
+        "name": "Bihpuria",
+        "place_type": "PPL",
+        "population": null,
+        "gazetteer_modified": "2024-12-31",
+        "provenance": {
+          "source": "live",
+          "recorded_at": "2026-10-10T10:21:54.567429+00:00",
+          "provider": "GeoNames",
+          "label": "GAZETTEER REFERENCE — location not field-verified"
+        },
+        "nearest_segment_id": "osm-1126832528-31-38",
+        "graph_node_id": "10303780047",
+        "distance_to_road_m": 13.6,
+        "distance_to_graph_node_m": 14.7,
+        "access_verified": false,
+        "elevation_m": 89.57,
+        "slope_degrees": 0.673,
+        "distance_to_river_m": 1043.8
+      }
+    }
+  ]
+}
