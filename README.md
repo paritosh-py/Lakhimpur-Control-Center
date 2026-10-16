@@ -4,8 +4,8 @@ A flood-response hackathon prototype for **Lakhimpur district, Assam**, connecti
 
 ## Team
 
-- **Paritosh** ? [@paritosh-py](https://github.com/paritosh-py)
-- **Atulya**
+- **Paritosh**  [@paritosh-py](https://github.com/paritosh-py)
+- **Atulya**    [atulyavm](https://github.com/atulyavm)
 
 ## What is implemented
 
